@@ -1,0 +1,8 @@
+"""
+29th oct,2024
+This is the 1st file which i will be pushing to my docker repo 
+1. Today i just created this( Docker ) repo and i will keep updating this regularly
+2. Docker for the Absolute Beginner - Hands-On
+   by Mumshad Mannambeth --->>> https://learning.oreilly.com/videos/docker-for-the/9781788991315/
+   
+"""
