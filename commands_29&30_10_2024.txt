@@ -1,0 +1,1000 @@
+ 1197  2024-10-29 11:46:12 gedit files
+ 1198  2024-10-29 11:46:12 vimfi
+ 1199  2024-10-29 11:46:12 vim files/
+ 1200  2024-10-29 11:46:12 ls
+ 1201  2024-10-29 11:46:12 cd files
+ 1202  2024-10-29 11:46:12 touch name.txt
+ 1203  2024-10-29 11:46:12 ls
+ 1204  2024-10-29 11:46:12 vim name.txt 
+ 1205  2024-10-29 11:46:12 gedit name.txt 
+ 1206  2024-10-29 11:46:12 ls
+ 1207  2024-10-29 11:46:12 nano name.txt 
+ 1208  2024-10-29 11:46:12 gedit name.txt 
+ 1209  2024-10-29 11:46:12 ls
+ 1210  2024-10-29 11:46:12 nano name.txt 
+ 1211  2024-10-29 11:46:12 cd /mnt/
+ 1212  2024-10-29 11:46:12 ls
+ 1213  2024-10-29 11:46:12 cd d
+ 1214  2024-10-29 11:46:12 ls
+ 1215  2024-10-29 11:46:12 cd Whats\ App/
+ 1216  2024-10-29 11:46:12 ls
+ 1217  2024-10-29 11:46:12 cd ubuntu/
+ 1218  2024-10-29 11:46:12 ls
+ 1219  2024-10-29 11:46:12 cd files
+ 1220  2024-10-29 11:46:12 ls
+ 1221  2024-10-29 11:46:12 gedit name.txt 
+ 1222  2024-10-29 11:46:12 nano name.txt 
+ 1223  2024-10-29 11:46:12 cd /mnt
+ 1224  2024-10-29 11:46:12 ls
+ 1225  2024-10-29 11:46:12 cd d
+ 1226  2024-10-29 11:46:12 ls
+ 1227  2024-10-29 11:46:12 cd Whats\ App/
+ 1228  2024-10-29 11:46:12 ls
+ 1229  2024-10-29 11:46:12 cd ubuntu
+ 1230  2024-10-29 11:46:12 ls
+ 1231  2024-10-29 11:46:12 cd files
+ 1232  2024-10-29 11:46:12 ls
+ 1233  2024-10-29 11:46:12 nano name.txt 
+ 1234  2024-10-29 11:46:12 ls
+ 1235  2024-10-29 11:46:12 nano name.txt 
+ 1236  2024-10-29 11:46:12 ls
+ 1237  2024-10-29 11:46:12 gedit name.txt 
+ 1238  2024-10-29 11:46:12 ls
+ 1239  2024-10-29 11:46:12 gedit name.txt 
+ 1240  2024-10-29 11:46:12 ls
+ 1241  2024-10-29 11:46:12 gedit name.txt 
+ 1242  2024-10-29 11:46:12 ls
+ 1243  2024-10-29 11:46:12 mkdir ubuntucopy
+ 1244  2024-10-29 11:46:12 ls
+ 1245  2024-10-29 11:46:12 cd ubuntucopy/
+ 1246  2024-10-29 11:46:12 ls
+ 1247  2024-10-29 11:46:12 cd ..
+ 1248  2024-10-29 11:46:12 cp name.txt "/mnt/d/Whats App/ubuntu/files" "/mnt/d/Whats App/ubuntu/files/ubuntucopy"
+ 1249  2024-10-29 11:46:12 cp -r name.txt "/mnt/d/Whats App/ubuntu/files" "/mnt/d/Whats App/ubuntu/files/ubuntucopy"
+ 1250  2024-10-29 11:46:12 cp -r name.txt "/mnt/d/Whats App/ubuntu/files/ubuntucopy"
+ 1251  2024-10-29 11:46:12 ls
+ 1252  2024-10-29 11:46:12 cd ubuntucopy/
+ 1253  2024-10-29 11:46:12 ls
+ 1254  2024-10-29 11:46:12 cd files/
+ 1255  2024-10-29 11:46:12 ls
+ 1256  2024-10-29 11:46:12 cd ubuntucopy/
+ 1257  2024-10-29 11:46:12 ls
+ 1258  2024-10-29 11:46:12 cd ..
+ 1259  2024-10-29 11:46:12 ls
+ 1260  2024-10-29 11:46:12 cd/mnt/
+ 1261  2024-10-29 11:46:12 cd /mnt
+ 1262  2024-10-29 11:46:12 cd..
+ 1263  2024-10-29 11:46:12 cd/mnt/
+ 1264  2024-10-29 11:46:12 cd ..
+ 1265  2024-10-29 11:46:12 cd /mnt
+ 1266  2024-10-29 11:46:12 ls
+ 1267  2024-10-29 11:46:12 cd /mnt\
+ 1268  2024-10-29 11:46:12 cd /mnt
+ 1269  2024-10-29 11:46:12 ls
+ 1270  2024-10-29 11:46:12 cd d
+ 1271  2024-10-29 11:46:12 ls
+ 1272  2024-10-29 11:46:12 cd Whats\ App/
+ 1273  2024-10-29 11:46:12 lsw
+ 1274  2024-10-29 11:46:12 ls
+ 1275  2024-10-29 11:46:12 brave
+ 1276  2024-10-29 11:46:12 brave-browser
+ 1277  2024-10-29 11:46:12 Brave
+ 1278  2024-10-29 11:46:12 brave -version
+ 1279  2024-10-29 11:46:12 firefox
+ 1280  2024-10-29 11:46:12 cd ..
+ 1281  2024-10-29 11:46:12 ls
+ 1282  2024-10-29 11:46:12 mkdir hemanth
+ 1283  2024-10-29 11:46:12 mkdir myself
+ 1284  2024-10-29 11:46:12 logout
+ 1285  2024-10-29 11:46:12 ls
+ 1286  2024-10-29 11:46:12 dir\
+ 1287  2024-10-29 11:46:12 dir
+ 1288  2024-10-29 11:46:12 mkdir myself
+ 1289  2024-10-29 11:46:12 ls
+ 1290  2024-10-29 11:46:12 cd myself/
+ 1291  2024-10-29 11:46:12 ls
+ 1292  2024-10-29 11:46:12 exit
+ 1293  2024-10-29 11:46:12 ls
+ 1294  2024-10-29 11:46:12 cd /mnt
+ 1295  2024-10-29 11:46:12 ls
+ 1296  2024-10-29 11:46:12 cd d
+ 1297  2024-10-29 11:46:12 ls
+ 1298  2024-10-29 11:46:12 cd s
+ 1299  2024-10-29 11:46:12 cd scd study/
+ 1300  2024-10-29 11:46:12 ls
+ 1301  2024-10-29 11:46:12 cd study/
+ 1302  2024-10-29 11:46:12 ls
+ 1303  2024-10-29 11:46:12 cd 'ne
+ 1304  2024-10-29 11:46:12 cd New\ folder/
+ 1305  2024-10-29 11:46:12 ls
+ 1306  2024-10-29 11:46:12 dir
+ 1307  2024-10-29 11:46:12 ld
+ 1308  2024-10-29 11:46:12 ls
+ 1309  2024-10-29 11:46:12 cd ..
+ 1310  2024-10-29 11:46:12 ls
+ 1311  2024-10-29 11:46:12 cd subversion-git/
+ 1312  2024-10-29 11:46:12 ls
+ 1313  2024-10-29 11:46:12 cd hr-git/
+ 1314  2024-10-29 11:46:12 ls
+ 1315  2024-10-29 11:46:12 cd pa
+ 1316  2024-10-29 11:46:12 cd pattern/
+ 1317  2024-10-29 11:46:12 ls
+ 1318  2024-10-29 11:46:12 cd
+ 1319  2024-10-29 11:46:12 python3 patteern1.py
+ 1320  2024-10-29 11:46:12 python3 pattern1.py
+ 1321  2024-10-29 11:46:12 ls
+ 1322  2024-10-29 11:46:12 cd /mnt/d/study/subversion-git/hr-git/pattern
+ 1323  2024-10-29 11:46:12 python3 pattern1.py 
+ 1324  2024-10-29 11:46:12 gedit pattern1.py 
+ 1325  2024-10-29 11:46:12 python3 pattern1.py 
+ 1326  2024-10-29 11:46:12 cd ..
+ 1327  2024-10-29 11:46:12 ls
+ 1328  2024-10-29 11:46:12 cd key_logger/
+ 1329  2024-10-29 11:46:12 ls
+ 1330  2024-10-29 11:46:12 python3 key.py 
+ 1331  2024-10-29 11:46:12 pip install pynput
+ 1332  2024-10-29 11:46:12 python3 key.py 
+ 1333  2024-10-29 11:46:12 ls
+ 1334  2024-10-29 11:46:12 gedit keylog.txt 
+ 1335  2024-10-29 11:46:12 ls
+ 1336  2024-10-29 11:46:12 nano keylog.txt 
+ 1337  2024-10-29 11:46:12 cd /mnt
+ 1338  2024-10-29 11:46:12 ls
+ 1339  2024-10-29 11:46:12 cd d
+ 1340  2024-10-29 11:46:12 ls
+ 1341  2024-10-29 11:46:12 cd sub
+ 1342  2024-10-29 11:46:12 cd study/
+ 1343  2024-10-29 11:46:12 ls
+ 1344  2024-10-29 11:46:12 cd subversion-git/
+ 1345  2024-10-29 11:46:12 ls
+ 1346  2024-10-29 11:46:12 cd hr-git/
+ 1347  2024-10-29 11:46:12 ls
+ 1348  2024-10-29 11:46:12 cd key_logger/
+ 1349  2024-10-29 11:46:12 ls
+ 1350  2024-10-29 11:46:12 gedit keylog.txt 
+ 1351  2024-10-29 11:46:12 sudo apt-get update
+ 1352  2024-10-29 11:46:12 sudo apt update
+ 1353  2024-10-29 11:46:12 sudo apt install valgrind
+ 1354  2024-10-29 11:46:12 valgrind --version
+ 1355  2024-10-29 11:46:12 man valgrind
+ 1356  2024-10-29 11:46:12 lsblk
+ 1357  2024-10-29 11:46:12 cd /mnt
+ 1358  2024-10-29 11:46:12 ls
+ 1359  2024-10-29 11:46:12 cd d
+ 1360  2024-10-29 11:46:12 ls
+ 1361  2024-10-29 11:46:12 valgrind -version
+ 1362  2024-10-29 11:46:12 valgrind --version
+ 1363  2024-10-29 11:46:12 ls
+ 1364  2024-10-29 11:46:12 cd str
+ 1365  2024-10-29 11:46:12 cd study/
+ 1366  2024-10-29 11:46:12 ls
+ 1367  2024-10-29 11:46:12 cd ..
+ 1368  2024-10-29 11:46:12 cd Whats\ App/
+ 1369  2024-10-29 11:46:12 ls
+ 1370  2024-10-29 11:46:12 cd vsc/
+ 1371  2024-10-29 11:46:12 ls
+ 1372  2024-10-29 11:46:12 cd hr/
+ 1373  2024-10-29 11:46:12 ;s
+ 1374  2024-10-29 11:46:12 cd hackerrank/
+ 1375  2024-10-29 11:46:12 cd ..
+ 1376  2024-10-29 11:46:12 ls
+ 1377  2024-10-29 11:46:12 cd hackerrank/
+ 1378  2024-10-29 11:46:12 ls
+ 1379  2024-10-29 11:46:12 cd data\ structure/
+ 1380  2024-10-29 11:46:12 ls
+ 1381  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes arraymanipulation.py
+ 1382  2024-10-29 11:46:12 python --version
+ 1383  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python arraymanipulation.py
+ 1384  2024-10-29 11:46:12 sudo apt updatre
+ 1385  2024-10-29 11:46:12 sudo apt update
+ 1386  2024-10-29 11:46:12 python --version
+ 1387  2024-10-29 11:46:12 sudo apt update python
+ 1388  2024-10-29 11:46:12 python3 --version
+ 1389  2024-10-29 11:46:12 python --version
+ 1390  2024-10-29 11:46:12 pyhon3 arrymanipulation.py
+ 1391  2024-10-29 11:46:12 python3 arrymanipulation.py
+ 1392  2024-10-29 11:46:12 ls
+ 1393  2024-10-29 11:46:12 python3 arraymanipulation.py
+ 1394  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 arraymanipulation.py
+ 1395  2024-10-29 11:46:12 q
+ 1396  2024-10-29 11:46:12 ls
+ 1397  2024-10-29 11:46:12 gedit eg.py
+ 1398  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 eg.py
+ 1399  2024-10-29 11:46:12 ls
+ 1400  2024-10-29 11:46:12 cat eg.py 
+ 1401  2024-10-29 11:46:12 touch "hello_world.py"
+ 1402  2024-10-29 11:46:12 ls
+ 1403  2024-10-29 11:46:12 cat hello_world.py 
+ 1404  2024-10-29 11:46:12 gedit hello_world.py 
+ 1405  2024-10-29 11:46:12 cat hello_world.py 
+ 1406  2024-10-29 11:46:12 gedit hello_world.py 
+ 1407  2024-10-29 11:46:12 cat hello_world.py 
+ 1408  2024-10-29 11:46:12 python3 hello_world.py 
+ 1409  2024-10-29 11:46:12 gedit hello_world.py 
+ 1410  2024-10-29 11:46:12 python hello_world.py 
+ 1411  2024-10-29 11:46:12 python2 hello_world.py 
+ 1412  2024-10-29 11:46:12 python3 hello_world.py 
+ 1413  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1414  2024-10-29 11:46:12 rerun with: --leak-check=full --show-leak-kinds=all
+ 1415  2024-10-29 11:46:12 sudo apt install rerun
+ 1416  2024-10-29 11:46:12 y
+ 1417  2024-10-29 11:46:12 sudo apt install rerun
+ 1418  2024-10-29 11:46:12 rerun with: --leak-check=full --show-leak-kinds=all
+ 1419  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1420  2024-10-29 11:46:12 -s
+ 1421  2024-10-29 11:46:12 rerun with: -s
+ 1422  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1423  2024-10-29 11:46:12 rerun with: --leak-check=full --show-leak-kinds=all
+ 1424  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1425  2024-10-29 11:46:12 ls
+ 1426  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1427  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=no python3 hello_world.py 
+ 1428  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=full python3 hello_world.py 
+ 1429  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes python3 hello_world.py 
+ 1430  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all python3 hello_world.py 
+ 1431  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes python3 hello_world.py 
+ 1432  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes python3 hello_world.py -s
+ 1433  2024-10-29 11:46:12 valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+ 1434  2024-10-29 11:46:12 valgrind --tool=cachegrind --leak-check=yes python3 hello_world.py 
+ 1435  2024-10-29 11:46:12 valgrind --tool=cachegrind python3 hello_world.py 
+ 1436  2024-10-29 11:46:12 valgrind --tool=cachegrind -s python3 hello_world.py 
+ 1437  2024-10-29 11:46:12 valgrind --tool=callgrind --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+ 1438  2024-10-29 11:46:12 valgrind --tool=callgrind --track-origins=yes -s python3 hello_world.py
+ 1439  2024-10-29 11:46:12 valgrind --tool=callgrind -s python3 hello_world.py
+ 1440  2024-10-29 11:46:12 valgrind --tool=callgrind -h python3 hello_world.py
+ 1441  2024-10-29 11:46:12 valgrind --tool=callgrind python3 hello_world.py
+ 1442  2024-10-29 11:46:12 valgrind --tool=helgrind python3 hello_world.py
+ 1443  2024-10-29 11:46:12 valgrind --tool=drd python3 hello_world.py
+ 1444  2024-10-29 11:46:12 valgrind --tool=memcheck --vgdb=yes --vgdb-error=0 Hello_World.py
+ 1445  2024-10-29 11:46:12 valgrind --tool=memcheck --vgdb=yes --vgdb-error=0 hello_world.py
+ 1446  2024-10-29 11:46:12 valgrind --tool=memcheck --vgdb=yes --vgdb-error=0 python3 hello_world.py
+ 1447  2024-10-29 11:46:12 cd mnt
+ 1448  2024-10-29 11:46:12 cd /mnt
+ 1449  2024-10-29 11:46:12 ls
+ 1450  2024-10-29 11:46:12 cd d
+ 1451  2024-10-29 11:46:12 ls
+ 1452  2024-10-29 11:46:12 cd W
+ 1453  2024-10-29 11:46:12 cd Whats\ App/
+ 1454  2024-10-29 11:46:12 ls
+ 1455  2024-10-29 11:46:12 cd ubuntu/
+ 1456  2024-10-29 11:46:12 ls
+ 1457  2024-10-29 11:46:12 cd ..
+ 1458  2024-10-29 11:46:12 cd vsc
+ 1459  2024-10-29 11:46:12 ls
+ 1460  2024-10-29 11:46:12 cd hr/
+ 1461  2024-10-29 11:46:12 ls
+ 1462  2024-10-29 11:46:12 cd hackerrank/ls
+ 1463  2024-10-29 11:46:12 cd hackerrank/
+ 1464  2024-10-29 11:46:12 ls
+ 1465  2024-10-29 11:46:12 cd data\ structure/
+ 1466  2024-10-29 11:46:12 ls
+ 1467  2024-10-29 11:46:12 valgrind --version
+ 1468  2024-10-29 11:46:12 valgrind --tool=memcheck python3 hello_world.py 
+ 1469  2024-10-29 11:46:12 valgrind --tool=memcheck -s python3 hello_world.py 
+ 1470  2024-10-29 11:46:12 valgrind --tool=memcheck -h python3 hello_world.py 
+ 1471  2024-10-29 11:46:12 valgrind --tool=memcheck python3 hello_world.py 
+ 1472  2024-10-29 11:46:12 ls
+ 1473  2024-10-29 11:46:12 cg_annotate cachegrind.out.15337 > analysis_report.txt
+ 1474  2024-10-29 11:46:12 valgrind --tool=memcheck python3 hello_world.py 
+ 1475  2024-10-29 11:46:12 vim hello_world.py 
+ 1476  2024-10-29 11:46:12 valgrind --tool=memcheck hello_world.py 
+ 1477  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck hello_world.py 
+ 1478  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1479  2024-10-29 11:46:12 valgrind --tool=memcheck hello_world.py 
+ 1480  2024-10-29 11:46:12 valgrind --tool=memcheck python3 hello_world.py 
+ 1481  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1482  2024-10-29 11:46:12 gedit hello_world.py 
+ 1483  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1484  2024-10-29 11:46:12 gedit hello_world.py 
+ 1485  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1486  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1487  2024-10-29 11:46:12 gedit hello_world.py 
+ 1488  2024-10-29 11:46:12 cat hello_world.py 
+ 1489  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py 
+ 1490  2024-10-29 11:46:12 cat hello_world.py 
+ 1491  2024-10-29 11:46:12 gedit
+ 1492  2024-10-29 11:46:12 gedit hello_world.py 
+ 1493  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=calgrind python3 hello_world.py 
+ 1494  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=callgrind python3 hello_world.py 
+ 1495  2024-10-29 11:46:12 PYTHONMALLOC=malloc  valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+ 1496  2024-10-29 11:46:12 cat hello_world.py 
+ 1497  2024-10-29 11:46:12 gedit hello_world.py 
+ 1498  2024-10-29 11:46:12 PYTHONMALLOC=malloc  valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+ 1499  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+ 1500  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes python3 hello_world.py
+ 1501  2024-10-29 11:46:12 which valgrind
+ 1502  2024-10-29 11:46:12 cd 
+ 1503  2024-10-29 11:46:12 sudo su d
+ 1504  2024-10-29 11:46:12 cd -
+ 1505  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --supressions=/lib/valgrind/python3.supp  python3 hello_world.py
+ 1506  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp  python3 hello_world.py
+ 1507  2024-10-29 11:46:12 vim hello_world.py 
+ 1508  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+ 1509  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+ 1510  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+ 1511  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+ 1512  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+ 1513  2024-10-29 11:46:12 which python
+ 1514  2024-10-29 11:46:12 $(which python) --version
+ 1515  2024-10-29 11:46:12 $(which python3) --version
+ 1516  2024-10-29 11:46:12 $(which python3.6) --version
+ 1517  2024-10-29 11:46:12 $(which python3) --version
+ 1518  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=yes python hello_world.py
+ 1519  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck  --track-origins=yes python hello_world.py
+ 1520  2024-10-29 11:46:12 PYTHONMALLOC=malloc valgrind --tool=memcheck python hello_world.py
+ 1521  2024-10-29 11:46:12 valgrind --tool=memcheck python hello_world.py
+ 1522  2024-10-29 11:46:12 $(which python3) --version
+ 1523  2024-10-29 11:46:12 version=$($(which python3) --version)
+ 1524  2024-10-29 11:46:12 echo $version
+ 1525  2024-10-29 11:46:12 /usr/bin/python3 --version
+ 1526  2024-10-29 11:46:12 which python3
+ 1527  2024-10-29 11:46:12 $(which python3) --version
+ 1528  2024-10-29 11:46:12 date
+ 1529  2024-10-29 11:46:12 ls -lrt
+ 1530  2024-10-29 11:46:12 ls -lrt *.py
+ 1531  2024-10-29 11:46:12 date
+ 1532  2024-10-29 11:46:12 date
+ 1533  2024-10-29 11:46:12 whoami
+ 1534  2024-10-29 11:46:12 data=$(whoami)
+ 1535  2024-10-29 11:46:12 echo $data
+ 1536  2024-10-29 11:46:12 data=(whoami)
+ 1537  2024-10-29 11:46:12 firefox
+ 1538  2024-10-29 11:46:12 brave
+ 1539  2024-10-29 11:46:12 brave-browser
+ 1540  2024-10-29 11:46:12 breave browser
+ 1541  2024-10-29 11:46:12 snap <brave browser>
+ 1542  2024-10-29 11:46:12 cd 
+ 1543  2024-10-29 11:46:12 ls
+ 1544  2024-10-29 11:46:12 cd snap/
+ 1545  2024-10-29 11:46:12 ls
+ 1546  2024-10-29 11:46:12 cd firefox/
+ 1547  2024-10-29 11:46:12 ls
+ 1548  2024-10-29 11:46:12 cd current
+ 1549  2024-10-29 11:46:12 ls
+ 1550  2024-10-29 11:46:12 cd comm
+ 1551  2024-10-29 11:46:12 cd co
+ 1552  2024-10-29 11:46:12 cat co
+ 1553  2024-10-29 11:46:12 gedit common
+ 1554  2024-10-29 11:46:12 ls
+ 1555  2024-10-29 11:46:12 cd 
+ 1556  2024-10-29 11:46:12 cd /mnt
+ 1557  2024-10-29 11:46:12 ls
+ 1558  2024-10-29 11:46:12 cd d
+ 1559  2024-10-29 11:46:12 ls
+ 1560  2024-10-29 11:46:12 cd W
+ 1561  2024-10-29 11:46:12 cd Whats\ App/
+ 1562  2024-10-29 11:46:12 ls
+ 1563  2024-10-29 11:46:12 cd ubuntu/
+ 1564  2024-10-29 11:46:12 ls
+ 1565  2024-10-29 11:46:12 cd files/
+ 1566  2024-10-29 11:46:12 ls
+ 1567  2024-10-29 11:46:12 cd n
+ 1568  2024-10-29 11:46:12 vim name.txt 
+ 1569  2024-10-29 11:46:12 cat name.txt 
+ 1570  2024-10-29 11:46:12 ls
+ 1571  2024-10-29 11:46:12 touch name1
+ 1572  2024-10-29 11:46:12 ls
+ 1573  2024-10-29 11:46:12 pwd
+ 1574  2024-10-29 11:46:12 mv name1 code
+ 1575  2024-10-29 11:46:12 ls
+ 1576  2024-10-29 11:46:12 cd code
+ 1577  2024-10-29 11:46:12 gedit code
+ 1578  2024-10-29 11:46:12 cat code
+ 1579  2024-10-29 11:46:12 python3 code
+ 1580  2024-10-29 11:46:12 gedit code
+ 1581  2024-10-29 11:46:12 ls
+ 1582  2024-10-29 11:46:12 cat code
+ 1583  2024-10-29 11:46:12 python3 code
+ 1584  2024-10-29 11:46:12 cd ..
+ 1585  2024-10-29 11:46:12 ls
+ 1586  2024-10-29 11:46:12 cd vsc/
+ 1587  2024-10-29 11:46:12 ls
+ 1588  2024-10-29 11:46:12 cd hr/
+ 1589  2024-10-29 11:46:12 ls
+ 1590  2024-10-29 11:46:12 cd app/
+ 1591  2024-10-29 11:46:12 ls
+ 1592  2024-10-29 11:46:12 cd myweb/
+ 1593  2024-10-29 11:46:12 ls
+ 1594  2024-10-29 11:46:12 cd templates/
+ 1595  2024-10-29 11:46:12 ls
+ 1596  2024-10-29 11:46:12 cd ..
+ 1597  2024-10-29 11:46:12 cd ,,
+ 1598  2024-10-29 11:46:12 cd ..
+ 1599  2024-10-29 11:46:12 ls
+ 1600  2024-10-29 11:46:12 cd ..
+ 1601  2024-10-29 11:46:12 ls
+ 1602  2024-10-29 11:46:12 cd hr/
+ 1603  2024-10-29 11:46:12 ls
+ 1604  2024-10-29 11:46:12 cd ..
+ 1605  2024-10-29 11:46:12 ls
+ 1606  2024-10-29 11:46:12 cd jammer/
+ 1607  2024-10-29 11:46:12 ls
+ 1608  2024-10-29 11:46:12 cat rough.py 
+ 1609  2024-10-29 11:46:12 gedit rough.py 
+ 1610  2024-10-29 11:46:12 ls
+ 1611  2024-10-29 11:46:12 cat college_server.py 
+ 1612  2024-10-29 11:46:12 ls
+ 1613  2024-10-29 11:46:12 cat USN_DOB.xlsx 
+ 1614  2024-10-29 11:46:12 python3 college_server.py 
+ 1615  2024-10-29 11:46:12 sudo apt install selenium
+ 1616  2024-10-29 11:46:12 pip install selenium
+ 1617  2024-10-29 11:46:12 selenium --version
+ 1618  2024-10-29 11:46:12 python3 college_server.py 
+ 1619  2024-10-29 11:46:12 sudo apt install webdriver_manager
+ 1620  2024-10-29 11:46:12 pip install webdriver_manager
+ 1621  2024-10-29 11:46:12 python3 college_server.py 
+ 1622  2024-10-29 11:46:12 pip install openpyxl
+ 1623  2024-10-29 11:46:12 python3 college_server.py 
+ 1624  2024-10-29 11:46:12 LS
+ 1625  2024-10-29 11:46:12 ls
+ 1626  2024-10-29 11:46:12 python3 college_server.py 
+ 1627  2024-10-29 11:46:12 cd /mnt
+ 1628  2024-10-29 11:46:12 ls
+ 1629  2024-10-29 11:46:12 cd d
+ 1630  2024-10-29 11:46:12 ls
+ 1631  2024-10-29 11:46:12 cd Whats\ App/
+ 1632  2024-10-29 11:46:12 ls
+ 1633  2024-10-29 11:46:12 cd jammer/
+ 1634  2024-10-29 11:46:12 ls
+ 1635  2024-10-29 11:46:12 python3 college_server.py 
+ 1636  2024-10-29 11:46:12 pip install microsoft edge
+ 1637  2024-10-29 11:46:12 python3 college_server.py 
+ 1638  2024-10-29 11:46:12 sudo apt install microsoft edge
+ 1639  2024-10-29 11:46:12 sudo apt update
+ 1640  2024-10-29 11:46:12 sudo apt upgrade
+ 1641  2024-10-29 11:46:12 git --version
+ 1642  2024-10-29 11:46:12 cd /mnt
+ 1643  2024-10-29 11:46:12 ls
+ 1644  2024-10-29 11:46:12 cd d
+ 1645  2024-10-29 11:46:12 ls
+ 1646  2024-10-29 11:46:12 cd W
+ 1647  2024-10-29 11:46:12 cd Whats\ App/
+ 1648  2024-10-29 11:46:12 ls
+ 1649  2024-10-29 11:46:12 cd ..
+ 1650  2024-10-29 11:46:12 ls
+ 1651  2024-10-29 11:46:12 cd study/
+ 1652  2024-10-29 11:46:12 ls
+ 1653  2024-10-29 11:46:12 cd subversion-git/
+ 1654  2024-10-29 11:46:12 ls
+ 1655  2024-10-29 11:46:12 cd hr-git/
+ 1656  2024-10-29 11:46:12 ls
+ 1657  2024-10-29 11:46:12 git remote -v
+ 1658  2024-10-29 11:46:12 git status
+ 1659  2024-10-29 11:46:12 git diff
+ 1660  2024-10-29 11:46:12 git add.
+ 1661  2024-10-29 11:46:12 git add
+ 1662  2024-10-29 11:46:12 git status
+ 1663  2024-10-29 11:46:12 ls
+ 1664  2024-10-29 11:46:12 cd pattern/
+ 1665  2024-10-29 11:46:12 ls
+ 1666  2024-10-29 11:46:12 cd ..q
+ 1667  2024-10-29 11:46:12 cd ..
+ 1668  2024-10-29 11:46:12 git add pattern/
+ 1669  2024-10-29 11:46:12 git status
+ 1670  2024-10-29 11:46:12 git commit -m"correction"
+ 1671  2024-10-29 11:46:12 git push -u 
+ 1672  2024-10-29 11:46:12 git status
+ 1673  2024-10-29 11:46:12 cd ..
+ 1674  2024-10-29 11:46:12 cd csk-git/
+ 1675  2024-10-29 11:46:12 ls
+ 1676  2024-10-29 11:46:12 git remote -v
+ 1677  2024-10-29 11:46:12 cd myAutomationScript/
+ 1678  2024-10-29 11:46:12 ls
+ 1679  2024-10-29 11:46:12 git remote -v
+ 1680  2024-10-29 11:46:12 git status
+ 1681  2024-10-29 11:46:12 git diff
+ 1682  2024-10-29 11:46:12 cd ..
+ 1683  2024-10-29 11:46:12 d
+ 1684  2024-10-29 11:46:12 cd d
+ 1685  2024-10-29 11:46:12 cd ...
+ 1686  2024-10-29 11:46:12 cd ..
+ 1687  2024-10-29 11:46:12 pwd
+ 1688  2024-10-29 11:46:12 cd /subversion-git/csk-git/myAutomationScript$
+ 1689  2024-10-29 11:46:12 cd subversion-git/csk-git/myAutomationScript$
+ 1690  2024-10-29 11:46:12 cd subversion-git/csk-git/myAutomationScript
+ 1691  2024-10-29 11:46:12 cd /subversion-git/csk-git/myAutomationScript
+ 1692  2024-10-29 11:46:12 cd/subversion-git/csk-git/myAutomationScript
+ 1693  2024-10-29 11:46:12 cd/subversion-git/csk-git/myAutomationScriptqqq
+ 1694  2024-10-29 11:46:12 pwd
+ 1695  2024-10-29 11:46:12 dir
+ 1696  2024-10-29 11:46:12 pwd dir
+ 1697  2024-10-29 11:46:12 dir
+ 1698  2024-10-29 11:46:12 ls /etc/NetworkManager/system-connections/
+ 1699  2024-10-29 11:46:12 ls /etc/NetworkManager/system-connections/
+ 1700  2024-10-29 11:46:12 sudo grep -r '^psk=' /etc/NetworkManager/system-connections/
+ 1701  2024-10-29 11:46:12 nmcli dev wifi show-password
+ 1702  2024-10-29 11:46:12 sudo grep psk= /etc/NetworkManager/system-connections/*
+ 1703  2024-10-29 11:46:12 nmcli dev wifi list
+ 1704  2024-10-29 11:46:12 sudo apt update && sudo apt install network-manager
+ 1705  2024-10-29 11:46:12 sudo dnf install NetworkManager
+ 1706  2024-10-29 11:46:12 sudo pacman -S networkmanager
+ 1707  2024-10-29 11:46:12 nmcli connection show | grep wifi
+ 1708  2024-10-29 11:46:12 sudo nmcli connection show WiFiName -s | grep psk
+ 1709  2024-10-29 11:46:12 nmcli device wifi show-password
+ 1710  2024-10-29 11:46:12 nmcli device bharath_5G show-password
+ 1711  2024-10-29 11:46:12 --help
+ 1712  2024-10-29 11:46:12 help
+ 1713  2024-10-29 11:46:12 $ bash linux-wifi-password.sh
+ 1714  2024-10-29 11:46:12 bash linux-wifi-password.sh
+ 1715  2024-10-29 11:46:12 linux-wifi-password.sh
+ 1716  2024-10-29 11:46:12 sudo modprobe -r uvcvideo
+ 1717  2024-10-29 11:46:12 udo modprobe -r uvcvideo
+ 1718  2024-10-29 11:46:12 sudo modprobe -r uvcvideo
+ 1719  2024-10-29 11:46:12 sudo modprobe uvcvideo
+ 1720  2024-10-29 11:46:12 cheese
+ 1721  2024-10-29 11:46:12 help
+ 1722  2024-10-29 11:46:12 history
+ 1723  2024-10-29 11:46:12 ls
+ 1724  2024-10-29 11:46:12 cd snap/
+ 1725  2024-10-29 11:46:12 ls
+ 1726  2024-10-29 11:46:12 cd firefox/
+ 1727  2024-10-29 11:46:12 ls
+ 1728  2024-10-29 11:46:12 cd current
+ 1729  2024-10-29 11:46:12 ls
+ 1730  2024-10-29 11:46:12 cd ..
+ 1731  2024-10-29 11:46:12 cd common/
+ 1732  2024-10-29 11:46:12 ls
+ 1733  2024-10-29 11:46:12 cd Videos/
+ 1734  2024-10-29 11:46:12 ls
+ 1735  2024-10-29 11:46:12 cd ..
+ 1736  2024-10-29 11:46:12 cd Pictures/
+ 1737  2024-10-29 11:46:12 ls
+ 1738  2024-10-29 11:46:12 cd..
+ 1739  2024-10-29 11:46:12 cd ..
+ 1740  2024-10-29 11:46:12 ls
+ 1741  2024-10-29 11:46:12 cd Desktop/
+ 1742  2024-10-29 11:46:12 ls
+ 1743  2024-10-29 11:46:12 help
+ 1744  2024-10-29 11:46:12 time
+ 1745  2024-10-29 11:46:12 set
+ 1746  2024-10-29 11:46:12 cd ...
+ 1747  2024-10-29 11:46:12 cd .
+ 1748  2024-10-29 11:46:12 d
+ 1749  2024-10-29 11:46:12 cd d
+ 1750  2024-10-29 11:46:12 cd ..
+ 1751  2024-10-29 11:46:12 cdc..
+ 1752  2024-10-29 11:46:12 cd ..
+ 1753  2024-10-29 11:46:12 cd..
+ 1754  2024-10-29 11:46:12 cd ..
+ 1755  2024-10-29 11:46:12 exit
+ 1756  2024-10-29 11:46:12 cp "birthday cakes.py" <D:\Whats App\vsc\hr\hackerrank\algorithm> <D:\study\subversion-git\hr-git\hackerrank\algorithm>
+ 1757  2024-10-29 11:46:12 cp <D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py> <D:\study\subversion-git\hr-git\hackerrank\algorithm>
+ 1758  2024-10-29 11:46:12 cp "D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "D:\study\subversion-git\hr-git\hackerrank\algorithm"
+ 1759  2024-10-29 11:46:12 cp "mnt\D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "mnt\D:\study\subversion-git\hr-git\hackerrank\algorithm"
+ 1760  2024-10-29 11:46:12 cp "mnt\d\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "mnt\d\study\subversion-git\hr-git\hackerrank\algorithm"
+ 1761  2024-10-29 11:46:12 cp "mnt/d/Whats App/vsc/hr/hackerrank/algorithm/birthday cakes.py" "mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+ 1762  2024-10-29 11:46:12 ls
+ 1763  2024-10-29 11:46:12 cd Whats\ App/
+ 1764  2024-10-29 11:46:12 ls
+ 1765  2024-10-29 11:46:12 cd vsc/
+ 1766  2024-10-29 11:46:12 ls
+ 1767  2024-10-29 11:46:12 cd hr/
+ 1768  2024-10-29 11:46:12 ls
+ 1769  2024-10-29 11:46:12 cd hackerrank/
+ 1770  2024-10-29 11:46:12 cls
+ 1771  2024-10-29 11:46:12 ls
+ 1772  2024-10-29 11:46:12 cd algorithm/
+ 1773  2024-10-29 11:46:12 ls
+ 1774  2024-10-29 11:46:12 cp birthday\ cakes.py "mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+ 1775  2024-10-29 11:46:12 cp birthday\ cakes.py "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+ 1776  2024-10-29 11:46:12 cp "/mnt/d/Whats App/vsc/hr/hackerrank/algorithm/birthday cakes.py" "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+ 1777  2024-10-29 11:46:12 cd ..
+ 1778  2024-10-29 11:46:12 cd ..\
+ 1779  2024-10-29 11:46:12 cd ..
+ 1780  2024-10-29 11:46:12 cd d
+ 1781  2024-10-29 11:46:12 ls
+ 1782  2024-10-29 11:46:12 cd scd study/
+ 1783  2024-10-29 11:46:12 ls
+ 1784  2024-10-29 11:46:12 cd study/
+ 1785  2024-10-29 11:46:12 ls
+ 1786  2024-10-29 11:46:12 cd subversion-git/
+ 1787  2024-10-29 11:46:12 ls
+ 1788  2024-10-29 11:46:12 cd hr-git/
+ 1789  2024-10-29 11:46:12 ls
+ 1790  2024-10-29 11:46:12 git status
+ 1791  2024-10-29 11:46:12 git add.
+ 1792  2024-10-29 11:46:12 git status
+ 1793  2024-10-29 11:46:12 git statsus
+ 1794  2024-10-29 11:46:12 git st]atus
+ 1795  2024-10-29 11:46:12 git status
+ 1796  2024-10-29 11:46:12 git add hackerrank/algorithm/birthday cakes.py
+ 1797  2024-10-29 11:46:12 git status
+ 1798  2024-10-29 11:46:12 git commit m-"birday_cakes"
+ 1799  2024-10-29 11:46:12 git status
+ 1800  2024-10-29 11:46:12 git add birthday cakes.py
+ 1801  2024-10-29 11:46:12 git add "birthday cakes.py"
+ 1802  2024-10-29 11:46:12 git add <birthday cakes.py>
+ 1803  2024-10-29 11:46:12 git add "birthday cakes.py" 
+ 1804  2024-10-29 11:46:12 ls
+ 1805  2024-10-29 11:46:12 git status
+ 1806  2024-10-29 11:46:12 git add "hackerrank/algorithm/birthday cakes.py"
+ 1807  2024-10-29 11:46:12 git status
+ 1808  2024-10-29 11:46:12 git commit -m "birthday cakes"
+ 1809  2024-10-29 11:46:12 git branch
+ 1810  2024-10-29 11:46:12 git push origin -u master
+ 1811  2024-10-29 11:46:12 git status
+ 1812  2024-10-29 11:46:12 cp "/mnt/d/Whats App/vsc/hr/hackerrank/algorithm/grading_students.py" "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+ 1813  2024-10-29 11:46:12 ls
+ 1814  2024-10-29 11:46:12 cd stu
+ 1815  2024-10-29 11:46:12 cd study/
+ 1816  2024-10-29 11:46:12 ls
+ 1817  2024-10-29 11:46:12 cd subversion-git/
+ 1818  2024-10-29 11:46:12 ls
+ 1819  2024-10-29 11:46:12 cd hr-git/
+ 1820  2024-10-29 11:46:12 ls
+ 1821  2024-10-29 11:46:12 git remote -v
+ 1822  2024-10-29 11:46:12 git status
+ 1823  2024-10-29 11:46:12 cp "/mnt/d/Whats App/vsc/hr/hackerrank" "/mnt/d/study/subversion-git/hr-git/hackerrank"
+ 1824  2024-10-29 11:46:12 git add.
+ 1825  2024-10-29 11:46:12 git add
+ 1826  2024-10-29 11:46:12 git add .
+ 1827  2024-10-29 11:46:12 git status
+ 1828  2024-10-29 11:46:12 git branch
+ 1829  2024-10-29 11:46:12 git commit -m "some_work"
+ 1830  2024-10-29 11:46:12 git push origin -u master
+ 1831  2024-10-29 11:46:12 git logs
+ 1832  2024-10-29 11:46:12 git log
+ 1833  2024-10-29 11:46:12 ls
+ 1834  2024-10-29 11:46:12 cd study/
+ 1835  2024-10-29 11:46:12 ls
+ 1836  2024-10-29 11:46:12 cd subversion-git/
+ 1837  2024-10-29 11:46:12 ls
+ 1838  2024-10-29 11:46:12 cd hr-git/
+ 1839  2024-10-29 11:46:12 ls
+ 1840  2024-10-29 11:46:12 git -v
+ 1841  2024-10-29 11:46:12 git remote -v
+ 1842  2024-10-29 11:46:12 git status
+ 1843  2024-10-29 11:46:12 git diff
+ 1844  2024-10-29 11:46:12 git diff flask
+ 1845  2024-10-29 11:46:12 git diff -- flask
+ 1846  2024-10-29 11:46:12 cp "
+ 1847  2024-10-29 11:46:12 cp "/mnt/d/study/subversion-git/csk-git/myAutomationScript/game1.py" "/mnt/d/Whats App/vsc/games/Snake_Water_Gun.py"
+ 1848  2024-10-29 11:46:12 xxxx
+ 1849  2024-10-29 11:46:12 git status
+ 1850  2024-10-29 11:46:12 ls
+ 1851  2024-10-29 11:46:12 cd snap
+ 1852  2024-10-29 11:46:12 ls
+ 1853  2024-10-29 11:46:12 cd firefox/
+ 1854  2024-10-29 11:46:12 ls
+ 1855  2024-10-29 11:46:12 cd current
+ 1856  2024-10-29 11:46:12 cd ..
+ 1857  2024-10-29 11:46:12 cd ,,,
+ 1858  2024-10-29 11:46:12 cd ..
+ 1859  2024-10-29 11:46:12 cdd ..
+ 1860  2024-10-29 11:46:12 cd ..
+ 1861  2024-10-29 11:46:12 cd /mnt
+ 1862  2024-10-29 11:46:12 ls
+ 1863  2024-10-29 11:46:12 cd d
+ 1864  2024-10-29 11:46:12 ls
+ 1865  2024-10-29 11:46:12 cd study/\
+ 1866  2024-10-29 11:46:12 ls
+ 1867  2024-10-29 11:46:12 cd subversion-git/
+ 1868  2024-10-29 11:46:12 ls
+ 1869  2024-10-29 11:46:12 cd hr-git
+ 1870  2024-10-29 11:46:12 ls
+ 1871  2024-10-29 11:46:12 git status
+ 1872  2024-10-29 11:46:12 git --v
+ 1873  2024-10-29 11:46:12 git remote -v
+ 1874  2024-10-29 11:46:12 ls
+ 1875  2024-10-29 11:46:12 cd python_scripts/
+ 1876  2024-10-29 11:46:12 ls
+ 1877  2024-10-29 11:46:12 git remote 0v
+ 1878  2024-10-29 11:46:12 git remote-v
+ 1879  2024-10-29 11:46:12 git remote -v
+ 1880  2024-10-29 11:46:12 cd ..
+ 1881  2024-10-29 11:46:12 git remote -v
+ 1882  2024-10-29 11:46:12 cd ..
+ 1883  2024-10-29 11:46:12 ls
+ 1884  2024-10-29 11:46:12 mkdir Docker
+ 1885  2024-10-29 11:46:12 cd docker
+ 1886  2024-10-29 11:46:12 [1;5C
+ 1887  2024-10-29 11:46:12 [C
+ 1888  2024-10-29 11:46:12 git clone [C
+ 1889  2024-10-29 11:46:12 cls
+ 1890  2024-10-29 11:46:12 clr
+ 1891  2024-10-29 11:46:12 cl
+ 1892  2024-10-29 11:46:12 cls
+ 1893  2024-10-29 11:46:12 git clone [1;5C
+ 1894  2024-10-29 11:46:12 ls
+ 1895  2024-10-29 11:46:12 cd study
+ 1896  2024-10-29 11:46:12 ls
+ 1897  2024-10-29 11:46:12 cd subversion-git/
+ 1898  2024-10-29 11:46:12 ls
+ 1899  2024-10-29 11:46:12 cd ..
+ 1900  2024-10-29 11:46:12 ls
+ 1901  2024-10-29 11:46:12 cd wh
+ 1902  2024-10-29 11:46:12 cd wha
+ 1903  2024-10-29 11:46:12 cd  Whats\ App/
+ 1904  2024-10-29 11:46:12 ls
+ 1905  2024-10-29 11:46:12 cd 
+ 1906  2024-10-29 11:46:12 ls
+ 1907  2024-10-29 11:46:12 cd /mnt/d/Whats App
+ 1908  2024-10-29 11:46:12 ls
+ 1909  2024-10-29 11:46:12 /mnt
+ 1910  2024-10-29 11:46:12 cd /mnt
+ 1911  2024-10-29 11:46:12 ls
+ 1912  2024-10-29 11:46:12 cd d
+ 1913  2024-10-29 11:46:12 ls
+ 1914  2024-10-29 11:46:12 cd Whats\ App/
+ 1915  2024-10-29 11:46:12 ls
+ 1916  2024-10-29 11:46:12 cd ub
+ 1917  2024-10-29 11:46:12 CD U
+ 1918  2024-10-29 11:46:12 cd U
+ 1919  2024-10-29 11:46:12 ls
+ 1920  2024-10-29 11:46:12 cd ubuntu/
+ 1921  2024-10-29 11:46:12 ls
+ 1922  2024-10-29 11:46:12 cd .
+ 1923  2024-10-29 11:46:12 cd ..
+ 1924  2024-10-29 11:46:12 ls
+ 1925  2024-10-29 11:46:12 cd vsc/ls
+ 1926  2024-10-29 11:46:12 cd vsc/
+ 1927  2024-10-29 11:46:12 ls
+ 1928  2024-10-29 11:46:12 cd hr
+ 1929  2024-10-29 11:46:12 ls
+ 1930  2024-10-29 11:46:12 cp "/mnt/d/Docker" "/mnt/d/Whats App/vsc/hr"
+ 1931  2024-10-29 11:46:12 ls
+ 1932  2024-10-29 11:46:12 cp -r "/mnt/d/Docker" "/mnt/d/Whats App/vsc/hr"
+ 1933  2024-10-29 11:46:12 ls
+ 1934  2024-10-29 11:46:12 cd Docker/
+ 1935  2024-10-29 11:46:12 ls
+ 1936  2024-10-29 11:46:12 gedit notes_29_10.txt 
+ 1937  2024-10-29 11:46:12 ls
+ 1938  2024-10-29 11:46:12 cd ..
+ 1939  2024-10-29 11:46:12 ls
+ 1940  2024-10-29 11:46:12 cd study
+ 1941  2024-10-29 11:46:12 ls
+ 1942  2024-10-29 11:46:12 cd subversion-git/
+ 1943  2024-10-29 11:46:12 ls
+ 1944  2024-10-29 11:46:12 cd hr-git/
+ 1945  2024-10-29 11:46:12 ls
+ 1946  2024-10-29 11:46:12 git remote v
+ 1947  2024-10-29 11:46:12 git remote -v
+ 1948  2024-10-29 11:46:12 ls
+ 1949  2024-10-29 11:46:12 cd ..
+ 1950  2024-10-29 11:46:12 git remote -v
+ 1951  2024-10-29 11:46:12 cp -r "/mnt/d/Docker"
+ 1952  2024-10-29 11:46:12 cp -r "/mnt/d/Docker" "/mnt/d/study/subversion-git"
+ 1953  2024-10-29 11:46:12 ls
+ 1954  2024-10-29 11:46:12 cd do
+ 1955  2024-10-29 11:46:12 cd Docker/
+ 1956  2024-10-29 11:46:12 ls
+ 1957  2024-10-29 11:46:12 git clone https://github.com/HemantHssn/docker.git
+ 1958  2024-10-29 11:46:12 ls
+ 1959  2024-10-29 11:46:12 cd docker/
+ 1960  2024-10-29 11:46:12 ls
+ 1961  2024-10-29 11:46:12 git status
+ 1962  2024-10-29 11:46:12 git remote -v
+ 1963  2024-10-29 11:46:12 git add .
+ 1964  2024-10-29 11:46:12 git status
+ 1965  2024-10-29 11:46:12 ls
+ 1966  2024-10-29 11:46:12 cd ..
+ 1967  2024-10-29 11:46:12 ls
+ 1968  2024-10-29 11:46:12 git status
+ 1969  2024-10-29 11:46:12 ls
+ 1970  2024-10-29 11:46:12 git add notes_29_10.txt 
+ 1971  2024-10-29 11:46:12 ls
+ 1972  2024-10-29 11:46:12 cd docker/
+ 1973  2024-10-29 11:46:12 ls
+ 1974  2024-10-29 11:46:12 git add notes_29_10.txt
+ 1975  2024-10-29 11:46:12 cd ..
+ 1976  2024-10-29 11:46:12 git remote -v
+ 1977  2024-10-29 11:46:12 cd docker/
+ 1978  2024-10-29 11:46:12 ls
+ 1979  2024-10-29 11:46:12 git add ..
+ 1980  2024-10-29 11:46:12 git add .
+ 1981  2024-10-29 11:46:12 git status
+ 1982  2024-10-29 11:46:20 ls
+ 1983  2024-10-29 11:48:04 cd /mnt
+ 1984  2024-10-29 11:48:05 ls
+ 1985  2024-10-29 11:48:09 cd d
+ 1986  2024-10-29 11:48:12 ls
+ 1987  2024-10-29 11:48:25 cd Docker/ls
+ 1988  2024-10-29 11:48:29 s
+ 1989  2024-10-29 11:48:32 ls
+ 1990  2024-10-29 11:48:35 cd Docker/
+ 1991  2024-10-29 11:48:36 ls
+ 1992  2024-10-29 11:49:21 cd ..
+ 1993  2024-10-29 11:49:22 ls
+ 1994  2024-10-29 11:49:34 cd s
+ 1995  2024-10-29 11:49:41 cd study/]
+ 1996  2024-10-29 11:49:44 cd study
+ 1997  2024-10-29 11:49:45 ls
+ 1998  2024-10-29 11:49:48 cd subversion-git/
+ 1999  2024-10-29 11:49:48 ls
+ 2000  2024-10-29 11:49:52 cd Docker/
+ 2001  2024-10-29 11:49:53 ls
+ 2002  2024-10-29 11:50:00 cd docker/
+ 2003  2024-10-29 11:50:01 ls
+ 2004  2024-10-29 11:50:35 cp "/mnt/d/Docker/notes_29_10.txt" 
+ 2005  2024-10-29 11:50:44 cp "/mnt/d/Docker/notes_29_10.txt" "/mnt/d/study/subversion-git/Docker/docker"
+ 2006  2024-10-29 11:50:46 ls
+ 2007  2024-10-29 11:50:55 git remote -v
+ 2008  2024-10-29 11:51:03 git status
+ 2009  2024-10-29 11:51:04 ls
+ 2010  2024-10-29 11:51:10 git add .
+ 2011  2024-10-29 11:51:12 ls
+ 2012  2024-10-29 11:51:18 git statua
+ 2013  2024-10-29 11:51:24 git status
+ 2014  2024-10-29 11:52:02 git push -u master "file_update"
+ 2015  2024-10-29 11:52:55 git status
+ 2016  2024-10-29 11:53:42 git commmit -m"file_updatate"
+ 2017  2024-10-29 11:53:52 git commit -m"file_updatate"
+ 2018  2024-10-29 11:54:02 git status
+ 2019  2024-10-29 11:54:23 git push origin -u master
+ 2020  2024-10-29 11:55:43 ls
+ 2021  2024-10-29 11:55:54 grep notes_29_10.txt 
+ 2022  2024-10-29 12:26:33 cd 
+ 2023  2024-10-29 12:26:48 cat /etc/*release*
+ 2024  2024-10-29 12:28:44 sudo apt get update
+ 2025  2024-10-29 12:28:49 hemanth
+ 2026  2024-10-29 12:28:53 sudo apt get update
+ 2027  2024-10-29 12:29:02 sudo apt-get uodate
+ 2028  2024-10-29 12:29:05 sudo apt-get update
+ 2029  2024-10-29 12:29:27 sudo apt update
+ 2030  2024-10-29 12:29:37 sudo apt upgrade
+ 2031  2024-10-29 12:34:58 sudo apt install gnome-terminal
+ 2032  2024-10-29 12:35:15 sudo apt-get install ./docker-desktop-<arch>.deb
+ 2033  2024-10-29 12:36:21 systemctl --user enable docker-desktop
+ 2034  2024-10-29 12:36:31 docker -verion
+ 2035  2024-10-29 12:41:12 wsl.exe --set-version (Ubuntu-20.04) 2
+ 2036  2024-10-29 12:41:31 wsl.exe --set-version Ubuntu-20.04 2
+ 2037  2024-10-29 12:41:49 docker version
+ 2038  2024-10-29 12:42:14 sudo apt install docker.ioi
+ 2039  2024-10-29 12:42:19 sudo apt install docker.io
+ 2040  2024-10-29 12:44:08 docker version
+ 2041  2024-10-29 12:47:20 sudo docker run docker/whalesay coiwsay Hello_world!
+ 2042  2024-10-29 12:49:27 sudo docker run docker/whalesay cowsay "Hello_world!"
+ 2043* 2024-10-29 12:49:38 sudo docker run docker/ng cowsay "hii hemanth"
+ 2044  2024-10-29 12:50:05 docker run nginx
+ 2045  2024-10-29 12:51:05 docker pull nginx
+ 2046  2024-10-29 12:51:08 docker run nginx
+ 2047  2024-10-29 12:51:48 sudo docker run docker/nginx
+ 2048  2024-10-29 12:52:08 docker pull nginx
+ 2049  2024-10-29 12:53:06 sudo service start 
+ 2050  2024-10-29 12:53:25 sudo service docker srtar
+ 2051  2024-10-29 12:53:30 sudo service docker start
+ 2052  2024-10-29 12:53:41 docker logibn
+ 2053  2024-10-29 12:53:46 docker login
+ 2054  2024-10-29 12:54:26 docker pull hello world
+ 2055  2024-10-29 12:54:36 docker pull hello-world
+ 2056  2024-10-29 12:54:57 docker images
+ 2057  2024-10-29 12:57:03 docker ps
+ 2058  2024-10-29 12:57:11 sudo docker ps
+ 2059  2024-10-29 12:58:47 docker version
+ 2060  2024-10-29 13:02:34 docker ps -a
+ 2061  2024-10-29 13:02:42 sudo docker ps -a
+ 2062  2024-10-29 13:55:10 docker stop fcf1e64f3cee
+ 2063  2024-10-29 13:55:13 sudo docker ps -a
+ 2064  2024-10-29 13:55:37 docker stop c745ea33853b
+ 2065  2024-10-29 13:55:40 sudo docker ps -a
+ 2066  2024-10-29 13:56:25 doccker status
+ 2067  2024-10-29 13:56:33 docker status
+ 2068  2024-10-29 13:56:42 docker --help
+ 2069  2024-10-29 14:11:34 docker COMMAND --help 
+ 2070  2024-10-29 14:13:01 cd /mnt
+ 2071  2024-10-29 14:13:03 ls
+ 2072  2024-10-29 14:13:06 cd d
+ 2073  2024-10-29 14:13:07 ls
+ 2074  2024-10-29 14:13:20 cd study/
+ 2075  2024-10-29 14:13:21 ls
+ 2076  2024-10-29 14:13:30 cd subversion-git/
+ 2077  2024-10-29 14:13:31 ls
+ 2078  2024-10-29 14:13:34 cd do
+ 2079  2024-10-29 14:13:36 cd Docker/
+ 2080  2024-10-29 14:13:37 ls
+ 2081  2024-10-29 14:13:43 git remote -v
+ 2082  2024-10-29 14:13:46 ls
+ 2083  2024-10-29 14:13:48 git remote -v
+ 2084  2024-10-29 14:13:52 cd d
+ 2085  2024-10-29 14:13:53 ls
+ 2086  2024-10-29 14:13:57 cd d
+ 2087  2024-10-29 14:13:59 cd  docker/
+ 2088  2024-10-29 14:14:00 ls
+ 2089  2024-10-29 14:14:05 git remot e-v
+ 2090  2024-10-29 14:14:12 git remote -v
+ 2091  2024-10-29 14:14:16 git status
+ 2092  2024-10-29 14:14:45 git commit -m"file_update"
+ 2093  2024-10-29 14:16:50 git commit --amend -m "update"
+ 2094  2024-10-29 14:18:02 git push origin master --force
+ 2095  2024-10-29 14:28:04 cd 
+ 2096  2024-10-29 14:28:11 docker images
+ 2097  2024-10-30 09:39:30 sudo docker images
+ 2098  2024-10-30 09:39:44 docker images
+ 2099  2024-10-30 09:39:54 sudo docker images =s
+ 2100  2024-10-30 09:40:02 sudo docker images -a
+ 2101  2024-10-30 09:40:15 docker run whalesay
+ 2102  2024-10-30 09:40:24 sudo docker run whalesay
+ 2103  2024-10-30 09:41:03 docker run whalesay
+ 2104  2024-10-30 09:41:12 docker run --help
+ 2105  2024-10-30 10:03:26 docker run centos
+ 2106  2024-10-30 10:03:33 sudo docker centos
+ 2107  2024-10-30 10:03:59 sudo docker run centods
+ 2108  2024-10-30 10:04:04 sudo docker run centos
+ 2109  2024-10-30 10:05:25 sudo docker images
+ 2110  2024-10-30 10:06:18 sudo docker run -it centos 
+ 2111  2024-10-30 10:08:27 docker ps
+ 2112  2024-10-30 10:08:32 sudo docker ps
+ 2113  2024-10-30 10:08:46 docker ps -a
+ 2114  2024-10-30 10:08:51 sudo docker ps -a
+ 2115  2024-10-30 10:09:22 sudo docker run -d centos sleep 20
+ 2116  2024-10-30 10:09:30 docker ps
+ 2117  2024-10-30 10:09:34 sudo docker ps
+ 2118  2024-10-30 10:10:09 sudo docker ps -a
+ 2119  2024-10-30 10:11:07 sudo docker run -d centos sleep 2000
+ 2120  2024-10-30 10:11:18 sudo docker ps
+ 2121  2024-10-30 10:11:29 sudo docker stop 
+ 2122  2024-10-30 10:11:43 sudo docker stop 111d7f516bfa
+ 2123  2024-10-30 10:12:02 sudo docker ps
+ 2124  2024-10-30 10:12:08 sudo docker ps -a
+ 2125  2024-10-30 10:12:33 sudo docker rm c745ea33853b
+ 2126  2024-10-30 10:12:43 sudo docker ps -a
+ 2127  2024-10-30 10:13:27 sudo docker rm 5a4 fcf 69a fff 672 111
+ 2128  2024-10-30 10:13:33 sudo docker ps -a
+ 2129  2024-10-30 10:13:55 sudo docker images
+ 2130  2024-10-30 10:14:12 sudo docker run ubuntu
+ 2131  2024-10-30 10:15:02 sudo docker images
+ 2132  2024-10-30 10:15:08 sudo docker ps
+ 2133  2024-10-30 10:15:17 sudo docker pull busybox
+ 2134  2024-10-30 10:18:08 sudo groupadd docker
+ 2135  2024-10-30 10:18:37 sudo usermod -aG docker $USER
+ 2136  2024-10-30 10:18:57 groups
+ 2137  2024-10-30 10:19:20 docker ps
+ 2138  2024-10-30 10:19:24 sudo docker ps
+ 2139  2024-10-30 10:19:48 sudo docker images
+ 2140  2024-10-30 10:20:02 sudo docker images -a
+ 2141  2024-10-30 10:20:26 sudo docker rmi docker/whalesay
+ 2142  2024-10-30 10:20:40 sudo docker images
+ 2143  2024-10-30 10:20:50 sudo docker images -a
+ 2144  2024-10-30 10:22:01 sudo docker ps
+ 2145  2024-10-30 10:22:06 sudo docker ps -a
+ 2146  2024-10-30 10:22:26 sudo docker rm eca 0cc
+ 2147  2024-10-30 10:22:33 sudo docker ps
+ 2148  2024-10-30 10:22:37 sudo docker ps -a
+ 2149  2024-10-30 10:23:24 sudo docker run -d ubuntu sleep 100
+ 2150  2024-10-30 10:23:34 sudo docker ps
+ 2151  2024-10-30 10:23:56 sudo docker exec 262
+ 2152  2024-10-30 10:24:03 sudo docker exec 2620
+ 2153  2024-10-30 10:24:12 sudo docker exec 262069144d85
+ 2154  2024-10-30 10:24:54 sudo docker ps
+ 2155  2024-10-30 10:25:58 sudo docker exec 262069144d85 cat /etc/*release*
+ 2156  2024-10-30 10:26:24 sudo docker ubuntu sleep 100
+ 2157  2024-10-30 10:26:33 sudo docker run ubuntu sleep 100
+ 2158  2024-10-30 10:28:13 sudo docker psdo
+ 2159  2024-10-30 10:28:13 sudo docker stop
+ 2160  2024-10-30 10:28:13 sudo docker ps
+ 2161  2024-10-30 10:28:26 sudp docker ps -a
+ 2162  2024-10-30 10:28:35 sudo docker ps -a
+ 2163  2024-10-30 10:28:52 sudo docker rm 1a9 262
+ 2164  2024-10-30 10:28:58 sudo docker ps -a
+ 2165  2024-10-30 10:29:14 sudo docker run -d ubuntu sleep 200
+ 2166  2024-10-30 10:29:21 sudo docker ps
+ 2167  2024-10-30 10:30:08 sudo docker exec fb1c61275daf cat /etc/*release*
+ 2168  2024-10-30 10:33:07 sudo docker ps -a
+ 2169  2024-10-30 10:33:13 sudo docker rm fbq1
+ 2170  2024-10-30 10:33:17 sudo docker rm fb1
+ 2171  2024-10-30 10:33:22 sudo docker ps -a
+ 2172  2024-10-30 10:34:07 date
+ 2173  2024-10-30 10:34:14 history
+ 2174  2024-10-30 10:34:35 date
+ 2175  2024-10-30 10:35:20 history | grep "Oct 30"
+ 2176  2024-10-30 10:36:03 history
+ 2177  2024-10-30 10:37:24 nano ~/.bashrc
+ 2178  2024-10-30 10:40:53 source ~/.bashrc
+ 2179  2024-10-30 10:40:57 history
+ 2180  2024-10-30 10:45:00 cd /mnt
+ 2181  2024-10-30 10:45:01 ls
+ 2182  2024-10-30 10:45:02 cd d
+ 2183  2024-10-30 10:45:09 ld
+ 2184  2024-10-30 10:45:10 cd d
+ 2185  2024-10-30 10:45:13 ld
+ 2186  2024-10-30 10:45:14 ls
+ 2187  2024-10-30 10:45:18 cd Docker/
+ 2188  2024-10-30 10:45:18 ls
+ 2189  2024-10-30 10:45:50 mkdir commands_history
+ 2190  2024-10-30 10:45:51 ls
+ 2191  2024-10-30 10:45:58 history
+ 2192  2024-10-30 10:46:17 ls
+ 2193  2024-10-30 10:46:21 cd commands_history/
+ 2194  2024-10-30 10:46:22 ls
+ 2195  2024-10-30 10:46:37 history > /mnt/d/Docker/commands_history
+ 2196  2024-10-30 10:47:39 history > /mnt/d/Docker/commands_history/commands_history.txt
