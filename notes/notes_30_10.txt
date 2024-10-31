@@ -1,0 +1,50 @@
+
+30th, October 2024
+=========================
+
+docker commands
+docker run nginx
+     it's used to run a container from the image 
+docker ps 
+      list all the containers
+docker ps -a
+      list all previous containerstoped or exited
+docker stop < name/id>
+      stops the container
+
+docker rm <name/id>
+docker rmi <name/id>
+docker images
+
+docker pull nginx
+    downloads images 
+
+docker exec <name/id>
+
+docker run -d <name/id>
+
+docker attach <few consecutive >
+
+
+kodekloud.com/p/docker-labs
+
+=======================================
+=========================================
+
+Jenkins is maped with port if we are using in externally with docker host
+ifconfig to get ip 
+sudo docker run -p 8080:8080 <image id>
+
+Jenkins can be easily used in internal docker host
+
+just by sudo docker inspect <container id> 
+we get the Ip address in networking , with that port is concatenated
+sudo docker run -p 8080:8080 <image id>
+
+
+
+we can,t use the same Jenkins container but its contant can be used if we mapped the directory 
+sudo docker run -p 8080:8080 -p 50000:50000 -v /home/hemanth/my_jenkins_data:/var/jenkins_home jenkins/jenkins:lts
+
+
+

@@ -1,0 +1,892 @@
+cmmands
+
+
+hemanth@HEMANTH:~$ history | grep -E "2024-10-30|2024-10-31"
+
+
+
+  561  2024-10-30 16:30:23 valgrind --tool=memcheck hello_world.py
+  562  2024-10-30 16:30:23 valgrind --tool=memcheck python3 hello_world.py
+  563  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  564  2024-10-30 16:30:23 gedit hello_world.py
+  565  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  566  2024-10-30 16:30:23 gedit hello_world.py
+  567  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  568  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  569  2024-10-30 16:30:23 gedit hello_world.py
+  570  2024-10-30 16:30:23 cat hello_world.py
+  571  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  572  2024-10-30 16:30:23 cat hello_world.py
+  573  2024-10-30 16:30:23 gedit
+  574  2024-10-30 16:30:23 gedit hello_world.py
+  575  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=calgrind python3 hello_world.py
+  576  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=callgrind python3 hello_world.py
+  577  2024-10-30 16:30:23 PYTHONMALLOC=malloc  valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+  578  2024-10-30 16:30:23 cat hello_world.py
+  579  2024-10-30 16:30:23 gedit hello_world.py
+  580  2024-10-30 16:30:23 PYTHONMALLOC=malloc  valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+  581  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes -s python3 hello_world.py
+  582  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes python3 hello_world.py
+  583  2024-10-30 16:30:23 which valgrind
+  584  2024-10-30 16:30:23 cd
+  585  2024-10-30 16:30:23 sudo su d
+  586  2024-10-30 16:30:23 cd -
+  587  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --supressions=/lib/valgrind/python3.supp  python3 hello_world.py
+  588  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp  python3 hello_world.py
+  589  2024-10-30 16:30:23 vim hello_world.py
+  590  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=yes --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+  591  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python3 hello_world.py
+  592  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+  593  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+  594  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=yes --suppressions=/lib/valgrind/python3.supp python3 hello_world.py
+  595  2024-10-30 16:30:23 which python
+  596  2024-10-30 16:30:23 $(which python) --version
+  597  2024-10-30 16:30:23 $(which python3) --version
+  598  2024-10-30 16:30:23 $(which python3.6) --version
+  599  2024-10-30 16:30:23 $(which python3) --version
+  600  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck --leak-check=full --show-leak-kinds=all --track-origins=yes python hello_world.py
+  601  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck  --track-origins=yes python hello_world.py
+  602  2024-10-30 16:30:23 PYTHONMALLOC=malloc valgrind --tool=memcheck python hello_world.py
+  603  2024-10-30 16:30:23 valgrind --tool=memcheck python hello_world.py
+  604  2024-10-30 16:30:23 $(which python3) --version
+  605  2024-10-30 16:30:23 version=$($(which python3) --version)
+  606  2024-10-30 16:30:23 echo $version
+  607  2024-10-30 16:30:23 /usr/bin/python3 --version
+  608  2024-10-30 16:30:23 which python3
+  609  2024-10-30 16:30:23 $(which python3) --version
+  610  2024-10-30 16:30:23 date
+  611  2024-10-30 16:30:23 ls -lrt
+  612  2024-10-30 16:30:23 ls -lrt *.py
+  613  2024-10-30 16:30:23 date
+  614  2024-10-30 16:30:23 date
+  615  2024-10-30 16:30:23 whoami
+  616  2024-10-30 16:30:23 data=$(whoami)
+  617  2024-10-30 16:30:23 echo $data
+  618  2024-10-30 16:30:23 data=(whoami)
+  619  2024-10-30 16:30:23 firefox
+  620  2024-10-30 16:30:23 brave
+  621  2024-10-30 16:30:23 brave-browser
+  622  2024-10-30 16:30:23 breave browser
+  623  2024-10-30 16:30:23 snap <brave browser>
+  624  2024-10-30 16:30:23 cd
+  625  2024-10-30 16:30:23 ls
+  626  2024-10-30 16:30:23 cd snap/
+  627  2024-10-30 16:30:23 ls
+  628  2024-10-30 16:30:23 cd firefox/
+  629  2024-10-30 16:30:23 ls
+  630  2024-10-30 16:30:23 cd current
+  631  2024-10-30 16:30:23 ls
+  632  2024-10-30 16:30:23 cd comm
+  633  2024-10-30 16:30:23 cd co
+  634  2024-10-30 16:30:23 cat co
+  635  2024-10-30 16:30:23 gedit common
+  636  2024-10-30 16:30:23 ls
+  637  2024-10-30 16:30:23 cd
+  638  2024-10-30 16:30:23 cd /mnt
+  639  2024-10-30 16:30:23 ls
+  640  2024-10-30 16:30:23 cd d
+  641  2024-10-30 16:30:23 ls
+  642  2024-10-30 16:30:23 cd W
+  643  2024-10-30 16:30:23 cd Whats\ App/
+  644  2024-10-30 16:30:23 ls
+  645  2024-10-30 16:30:23 cd ubuntu/
+  646  2024-10-30 16:30:23 ls
+  647  2024-10-30 16:30:23 cd files/
+  648  2024-10-30 16:30:23 ls
+  649  2024-10-30 16:30:23 cd n
+  650  2024-10-30 16:30:23 vim name.txt
+  651  2024-10-30 16:30:23 cat name.txt
+  652  2024-10-30 16:30:23 ls
+  653  2024-10-30 16:30:23 touch name1
+  654  2024-10-30 16:30:23 ls
+  655  2024-10-30 16:30:23 pwd
+  656  2024-10-30 16:30:23 mv name1 code
+  657  2024-10-30 16:30:23 ls
+  658  2024-10-30 16:30:23 cd code
+  659  2024-10-30 16:30:23 gedit code
+  660  2024-10-30 16:30:23 cat code
+  661  2024-10-30 16:30:23 python3 code
+  662  2024-10-30 16:30:23 gedit code
+  663  2024-10-30 16:30:23 ls
+  664  2024-10-30 16:30:23 cat code
+  665  2024-10-30 16:30:23 python3 code
+  666  2024-10-30 16:30:23 cd ..
+  667  2024-10-30 16:30:23 ls
+  668  2024-10-30 16:30:23 cd vsc/
+  669  2024-10-30 16:30:23 ls
+  670  2024-10-30 16:30:23 cd hr/
+  671  2024-10-30 16:30:23 ls
+  672  2024-10-30 16:30:23 cd app/
+  673  2024-10-30 16:30:23 ls
+  674  2024-10-30 16:30:23 cd myweb/
+  675  2024-10-30 16:30:23 ls
+  676  2024-10-30 16:30:23 cd templates/
+  677  2024-10-30 16:30:23 ls
+  678  2024-10-30 16:30:23 cd ..
+  679  2024-10-30 16:30:23 cd ,,
+  680  2024-10-30 16:30:23 cd ..
+  681  2024-10-30 16:30:23 ls
+  682  2024-10-30 16:30:23 cd ..
+  683  2024-10-30 16:30:23 ls
+  684  2024-10-30 16:30:23 cd hr/
+  685  2024-10-30 16:30:23 ls
+  686  2024-10-30 16:30:23 cd ..
+  687  2024-10-30 16:30:23 ls
+  688  2024-10-30 16:30:23 cd jammer/
+  689  2024-10-30 16:30:23 ls
+  690  2024-10-30 16:30:23 cat rough.py
+  691  2024-10-30 16:30:23 gedit rough.py
+  692  2024-10-30 16:30:23 ls
+  693  2024-10-30 16:30:23 cat college_server.py
+  694  2024-10-30 16:30:23 ls
+  695  2024-10-30 16:30:23 cat USN_DOB.xlsx
+  696  2024-10-30 16:30:23 python3 college_server.py
+  697  2024-10-30 16:30:23 sudo apt install selenium
+  698  2024-10-30 16:30:23 pip install selenium
+  699  2024-10-30 16:30:23 selenium --version
+  700  2024-10-30 16:30:23 python3 college_server.py
+  701  2024-10-30 16:30:23 sudo apt install webdriver_manager
+  702  2024-10-30 16:30:23 pip install webdriver_manager
+  703  2024-10-30 16:30:23 python3 college_server.py
+  704  2024-10-30 16:30:23 pip install openpyxl
+  705  2024-10-30 16:30:23 python3 college_server.py
+  706  2024-10-30 16:30:23 LS
+  707  2024-10-30 16:30:23 ls
+  708  2024-10-30 16:30:23 python3 college_server.py
+  709  2024-10-30 16:30:23 cd /mnt
+  710  2024-10-30 16:30:23 ls
+  711  2024-10-30 16:30:23 cd d
+  712  2024-10-30 16:30:23 ls
+  713  2024-10-30 16:30:23 cd Whats\ App/
+  714  2024-10-30 16:30:23 ls
+  715  2024-10-30 16:30:23 cd jammer/
+  716  2024-10-30 16:30:23 ls
+  717  2024-10-30 16:30:23 python3 college_server.py
+  718  2024-10-30 16:30:23 pip install microsoft edge
+  719  2024-10-30 16:30:23 python3 college_server.py
+  720  2024-10-30 16:30:23 sudo apt install microsoft edge
+  721  2024-10-30 16:30:23 sudo apt update
+  722  2024-10-30 16:30:23 sudo apt upgrade
+  723  2024-10-30 16:30:23 git --version
+  724  2024-10-30 16:30:23 cd /mnt
+  725  2024-10-30 16:30:23 ls
+  726  2024-10-30 16:30:23 cd d
+  727  2024-10-30 16:30:23 ls
+  728  2024-10-30 16:30:23 cd W
+  729  2024-10-30 16:30:23 cd Whats\ App/
+  730  2024-10-30 16:30:23 ls
+  731  2024-10-30 16:30:23 cd ..
+  732  2024-10-30 16:30:23 ls
+  733  2024-10-30 16:30:23 cd study/
+  734  2024-10-30 16:30:23 ls
+  735  2024-10-30 16:30:23 cd subversion-git/
+  736  2024-10-30 16:30:23 ls
+  737  2024-10-30 16:30:23 cd hr-git/
+  738  2024-10-30 16:30:23 ls
+  739  2024-10-30 16:30:23 git remote -v
+  740  2024-10-30 16:30:23 git status
+  741  2024-10-30 16:30:23 git diff
+  742  2024-10-30 16:30:23 git add.
+  743  2024-10-30 16:30:23 git add
+  744  2024-10-30 16:30:23 git status
+  745  2024-10-30 16:30:23 ls
+  746  2024-10-30 16:30:23 cd pattern/
+  747  2024-10-30 16:30:23 ls
+  748  2024-10-30 16:30:23 cd ..q
+  749  2024-10-30 16:30:23 cd ..
+  750  2024-10-30 16:30:23 git add pattern/
+  751  2024-10-30 16:30:23 git status
+  752  2024-10-30 16:30:23 git commit -m"correction"
+  753  2024-10-30 16:30:23 git push -u
+  754  2024-10-30 16:30:23 git status
+  755  2024-10-30 16:30:23 cd ..
+  756  2024-10-30 16:30:23 cd csk-git/
+  757  2024-10-30 16:30:23 ls
+  758  2024-10-30 16:30:23 git remote -v
+  759  2024-10-30 16:30:23 cd myAutomationScript/
+  760  2024-10-30 16:30:23 ls
+  761  2024-10-30 16:30:23 git remote -v
+  762  2024-10-30 16:30:23 git status
+  763  2024-10-30 16:30:23 git diff
+  764  2024-10-30 16:30:23 cd ..
+  765  2024-10-30 16:30:23 d
+  766  2024-10-30 16:30:23 cd d
+  767  2024-10-30 16:30:23 cd ...
+  768  2024-10-30 16:30:23 cd ..
+  769  2024-10-30 16:30:23 pwd
+  770  2024-10-30 16:30:23 cd /subversion-git/csk-git/myAutomationScript$
+  771  2024-10-30 16:30:23 cd subversion-git/csk-git/myAutomationScript$
+  772  2024-10-30 16:30:23 cd subversion-git/csk-git/myAutomationScript
+  773  2024-10-30 16:30:23 cd /subversion-git/csk-git/myAutomationScript
+  774  2024-10-30 16:30:23 cd/subversion-git/csk-git/myAutomationScript
+  775  2024-10-30 16:30:23 cd/subversion-git/csk-git/myAutomationScriptqqq
+  776  2024-10-30 16:30:23 pwd
+  777  2024-10-30 16:30:23 dir
+  778  2024-10-30 16:30:23 pwd dir
+  779  2024-10-30 16:30:23 dir
+  780  2024-10-30 16:30:23 ls /etc/NetworkManager/system-connections/
+  781  2024-10-30 16:30:23 ls /etc/NetworkManager/system-connections/
+  782  2024-10-30 16:30:23 sudo grep -r '^psk=' /etc/NetworkManager/system-connections/
+  783  2024-10-30 16:30:23 nmcli dev wifi show-password
+  784  2024-10-30 16:30:23 sudo grep psk= /etc/NetworkManager/system-connections/*
+  785  2024-10-30 16:30:23 nmcli dev wifi list
+  786  2024-10-30 16:30:23 sudo apt update && sudo apt install network-manager
+  787  2024-10-30 16:30:23 sudo dnf install NetworkManager
+  788  2024-10-30 16:30:23 sudo pacman -S networkmanager
+  789  2024-10-30 16:30:23 nmcli connection show | grep wifi
+  790  2024-10-30 16:30:23 sudo nmcli connection show WiFiName -s | grep psk
+  791  2024-10-30 16:30:23 nmcli device wifi show-password
+  792  2024-10-30 16:30:23 nmcli device bharath_5G show-password
+  793  2024-10-30 16:30:23 --help
+  794  2024-10-30 16:30:23 help
+  795  2024-10-30 16:30:23 $ bash linux-wifi-password.sh
+  796  2024-10-30 16:30:23 bash linux-wifi-password.sh
+  797  2024-10-30 16:30:23 linux-wifi-password.sh
+  798  2024-10-30 16:30:23 sudo modprobe -r uvcvideo
+  799  2024-10-30 16:30:23 udo modprobe -r uvcvideo
+  800  2024-10-30 16:30:23 sudo modprobe -r uvcvideo
+  801  2024-10-30 16:30:23 sudo modprobe uvcvideo
+  802  2024-10-30 16:30:23 cheese
+  803  2024-10-30 16:30:23 help
+  804  2024-10-30 16:30:23 history
+  805  2024-10-30 16:30:23 ls
+  806  2024-10-30 16:30:23 cd snap/
+  807  2024-10-30 16:30:23 ls
+  808  2024-10-30 16:30:23 cd firefox/
+  809  2024-10-30 16:30:23 ls
+  810  2024-10-30 16:30:23 cd current
+  811  2024-10-30 16:30:23 ls
+  812  2024-10-30 16:30:23 cd ..
+  813  2024-10-30 16:30:23 cd common/
+  814  2024-10-30 16:30:23 ls
+  815  2024-10-30 16:30:23 cd Videos/
+  816  2024-10-30 16:30:23 ls
+  817  2024-10-30 16:30:23 cd ..
+  818  2024-10-30 16:30:23 cd Pictures/
+  819  2024-10-30 16:30:23 ls
+  820  2024-10-30 16:30:23 cd..
+  821  2024-10-30 16:30:23 cd ..
+  822  2024-10-30 16:30:23 ls
+  823  2024-10-30 16:30:23 cd Desktop/
+  824  2024-10-30 16:30:23 ls
+  825  2024-10-30 16:30:23 help
+  826  2024-10-30 16:30:23 time
+  827  2024-10-30 16:30:23 set
+  828  2024-10-30 16:30:23 cd ...
+  829  2024-10-30 16:30:23 cd .
+  830  2024-10-30 16:30:23 d
+  831  2024-10-30 16:30:23 cd d
+  832  2024-10-30 16:30:23 cd ..
+  833  2024-10-30 16:30:23 cdc..
+  834  2024-10-30 16:30:23 cd ..
+  835  2024-10-30 16:30:23 cd..
+  836  2024-10-30 16:30:23 cd ..
+  837  2024-10-30 16:30:23 exit
+  838  2024-10-30 16:30:23 cp "birthday cakes.py" <D:\Whats App\vsc\hr\hackerrank\algorithm> <D:\study\subversion-git\hr-git\hackerrank\algorithm>
+  839  2024-10-30 16:30:23 cp <D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py> <D:\study\subversion-git\hr-git\hackerrank\algorithm>
+  840  2024-10-30 16:30:23 cp "D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "D:\study\subversion-git\hr-git\hackerrank\algorithm"
+  841  2024-10-30 16:30:23 cp "mnt\D:\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "mnt\D:\study\subversion-git\hr-git\hackerrank\algorithm"
+  842  2024-10-30 16:30:23 cp "mnt\d\Whats App\vsc\hr\hackerrank\algorithm\birthday cakes.py" "mnt\d\study\subversion-git\hr-git\hackerrank\algorithm"
+  843  2024-10-30 16:30:23 cp "mnt/d/Whats App/vsc/hr/hackerrank/algorithm/birthday cakes.py" "mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+  844  2024-10-30 16:30:23 ls
+  845  2024-10-30 16:30:23 cd Whats\ App/
+  846  2024-10-30 16:30:23 ls
+  847  2024-10-30 16:30:23 cd vsc/
+  848  2024-10-30 16:30:23 ls
+  849  2024-10-30 16:30:23 cd hr/
+  850  2024-10-30 16:30:23 ls
+  851  2024-10-30 16:30:23 cd hackerrank/
+  852  2024-10-30 16:30:23 cls
+  853  2024-10-30 16:30:23 ls
+  854  2024-10-30 16:30:23 cd algorithm/
+  855  2024-10-30 16:30:23 ls
+  856  2024-10-30 16:30:23 cp birthday\ cakes.py "mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+  857  2024-10-30 16:30:23 cp birthday\ cakes.py "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+  858  2024-10-30 16:30:23 cp "/mnt/d/Whats App/vsc/hr/hackerrank/algorithm/birthday cakes.py" "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+  859  2024-10-30 16:30:23 cd ..
+  860  2024-10-30 16:30:23 cd ..\
+  861  2024-10-30 16:30:23 cd ..
+  862  2024-10-30 16:30:23 cd d
+  863  2024-10-30 16:30:23 ls
+  864  2024-10-30 16:30:23 cd scd study/
+  865  2024-10-30 16:30:23 ls
+  866  2024-10-30 16:30:23 cd study/
+  867  2024-10-30 16:30:23 ls
+  868  2024-10-30 16:30:23 cd subversion-git/
+  869  2024-10-30 16:30:23 ls
+  870  2024-10-30 16:30:23 cd hr-git/
+  871  2024-10-30 16:30:23 ls
+  872  2024-10-30 16:30:23 git status
+  873  2024-10-30 16:30:23 git add.
+  874  2024-10-30 16:30:23 git status
+  875  2024-10-30 16:30:23 git statsus
+  876  2024-10-30 16:30:23 git st]atus
+  877  2024-10-30 16:30:23 git status
+  878  2024-10-30 16:30:23 git add hackerrank/algorithm/birthday cakes.py
+  879  2024-10-30 16:30:23 git status
+  880  2024-10-30 16:30:23 git commit m-"birday_cakes"
+  881  2024-10-30 16:30:23 git status
+  882  2024-10-30 16:30:23 git add birthday cakes.py
+  883  2024-10-30 16:30:23 git add "birthday cakes.py"
+  884  2024-10-30 16:30:23 git add <birthday cakes.py>
+  885  2024-10-30 16:30:23 git add "birthday cakes.py"
+  886  2024-10-30 16:30:23 ls
+  887  2024-10-30 16:30:23 git status
+  888  2024-10-30 16:30:23 git add "hackerrank/algorithm/birthday cakes.py"
+  889  2024-10-30 16:30:23 git status
+  890  2024-10-30 16:30:23 git commit -m "birthday cakes"
+  891  2024-10-30 16:30:23 git branch
+  892  2024-10-30 16:30:23 git push origin -u master
+  893  2024-10-30 16:30:23 git status
+  894  2024-10-30 16:30:23 cp "/mnt/d/Whats App/vsc/hr/hackerrank/algorithm/grading_students.py" "/mnt/d/study/subversion-git/hr-git/hackerrank/algorithm"
+  895  2024-10-30 16:30:23 ls
+  896  2024-10-30 16:30:23 cd stu
+  897  2024-10-30 16:30:23 cd study/
+  898  2024-10-30 16:30:23 ls
+  899  2024-10-30 16:30:23 cd subversion-git/
+  900  2024-10-30 16:30:23 ls
+  901  2024-10-30 16:30:23 cd hr-git/
+  902  2024-10-30 16:30:23 ls
+  903  2024-10-30 16:30:23 git remote -v
+  904  2024-10-30 16:30:23 git status
+  905  2024-10-30 16:30:23 cp "/mnt/d/Whats App/vsc/hr/hackerrank" "/mnt/d/study/subversion-git/hr-git/hackerrank"
+  906  2024-10-30 16:30:23 git add.
+  907  2024-10-30 16:30:23 git add
+  908  2024-10-30 16:30:23 git add .
+  909  2024-10-30 16:30:23 git status
+  910  2024-10-30 16:30:23 git branch
+  911  2024-10-30 16:30:23 git commit -m "some_work"
+  912  2024-10-30 16:30:23 git push origin -u master
+  913  2024-10-30 16:30:23 git logs
+  914  2024-10-30 16:30:23 git log
+  915  2024-10-30 16:30:23 ls
+  916  2024-10-30 16:30:23 cd study/
+  917  2024-10-30 16:30:23 ls
+  918  2024-10-30 16:30:23 cd subversion-git/
+  919  2024-10-30 16:30:23 ls
+  920  2024-10-30 16:30:23 cd hr-git/
+  921  2024-10-30 16:30:23 ls
+  922  2024-10-30 16:30:23 git -v
+  923  2024-10-30 16:30:23 git remote -v
+  924  2024-10-30 16:30:23 git status
+  925  2024-10-30 16:30:23 git diff
+  926  2024-10-30 16:30:23 git diff flask
+  927  2024-10-30 16:30:23 git diff -- flask
+  928  2024-10-30 16:30:23 cp "
+  929  2024-10-30 16:30:23 cp "/mnt/d/study/subversion-git/csk-git/myAutomationScript/game1.py" "/mnt/d/Whats App/vsc/games/Snake_Water_Gun.py"
+  930  2024-10-30 16:30:23 xxxx
+  931  2024-10-30 16:30:23 git status
+  932  2024-10-30 16:30:23 ls
+  933  2024-10-30 16:30:23 cd snap
+  934  2024-10-30 16:30:23 ls
+  935  2024-10-30 16:30:23 cd firefox/
+  936  2024-10-30 16:30:23 ls
+  937  2024-10-30 16:30:23 cd current
+  938  2024-10-30 16:30:23 cd ..
+  939  2024-10-30 16:30:23 cd ,,,
+  940  2024-10-30 16:30:23 cd ..
+  941  2024-10-30 16:30:23 cdd ..
+  942  2024-10-30 16:30:23 cd ..
+  943  2024-10-30 16:30:23 cd /mnt
+  944  2024-10-30 16:30:23 ls
+  945  2024-10-30 16:30:23 cd d
+  946  2024-10-30 16:30:23 ls
+  947  2024-10-30 16:30:23 cd study/\
+  948  2024-10-30 16:30:23 ls
+  949  2024-10-30 16:30:23 cd subversion-git/
+  950  2024-10-30 16:30:23 ls
+  951  2024-10-30 16:30:23 cd hr-git
+  952  2024-10-30 16:30:23 ls
+  953  2024-10-30 16:30:23 git status
+  954  2024-10-30 16:30:23 git --v
+  955  2024-10-30 16:30:23 git remote -v
+  956  2024-10-30 16:30:23 ls
+  957  2024-10-30 16:30:23 cd python_scripts/
+  958  2024-10-30 16:30:23 ls
+  959  2024-10-30 16:30:23 git remote 0v
+  960  2024-10-30 16:30:23 git remote-v
+  961  2024-10-30 16:30:23 git remote -v
+  962  2024-10-30 16:30:23 cd ..
+  963  2024-10-30 16:30:23 git remote -v
+  964  2024-10-30 16:30:23 cd ..
+  965  2024-10-30 16:30:23 ls
+  966  2024-10-30 16:30:23 mkdir Docker
+  967  2024-10-30 16:30:23 cd docker
+  968  2024-10-30 16:30:23
+  969  2024-10-30 16:30:23
+  970  2024-10-30 16:30:23 git clone
+  971  2024-10-30 16:30:23 cls
+  972  2024-10-30 16:30:23 clr
+  973  2024-10-30 16:30:23 cl
+  974  2024-10-30 16:30:23 cls
+  975  2024-10-30 16:30:23 git clone
+  976  2024-10-30 16:30:23 ls
+  977  2024-10-30 16:30:23 cd study
+  978  2024-10-30 16:30:23 ls
+  979  2024-10-30 16:30:23 cd subversion-git/
+  980  2024-10-30 16:30:23 ls
+  981  2024-10-30 16:30:23 cd ..
+  982  2024-10-30 16:30:23 ls
+  983  2024-10-30 16:30:23 cd wh
+  984  2024-10-30 16:30:23 cd wha
+  985  2024-10-30 16:30:23 cd  Whats\ App/
+  986  2024-10-30 16:30:23 ls
+  987  2024-10-30 16:30:23 cd
+  988  2024-10-30 16:30:23 ls
+  989  2024-10-30 16:30:23 cd /mnt/d/Whats App
+  990  2024-10-30 16:30:23 ls
+  991  2024-10-30 16:30:23 /mnt
+  992  2024-10-30 16:30:23 cd /mnt
+  993  2024-10-30 16:30:23 ls
+  994  2024-10-30 16:30:23 cd d
+  995  2024-10-30 16:30:23 ls
+  996  2024-10-30 16:30:23 cd Whats\ App/
+  997  2024-10-30 16:30:23 ls
+  998  2024-10-30 16:30:23 cd ub
+  999  2024-10-30 16:30:23 CD U
+ 1000  2024-10-30 16:30:23 cd U
+ 1001  2024-10-30 16:30:23 ls
+ 1002  2024-10-30 16:30:23 cd ubuntu/
+ 1003  2024-10-30 16:30:23 ls
+ 1004  2024-10-30 16:30:23 cd .
+ 1005  2024-10-30 16:30:23 cd ..
+ 1006  2024-10-30 16:30:23 ls
+ 1007  2024-10-30 16:30:23 cd vsc/ls
+ 1008  2024-10-30 16:30:23 cd vsc/
+ 1009  2024-10-30 16:30:23 ls
+ 1010  2024-10-30 16:30:23 cd hr
+ 1011  2024-10-30 16:30:23 ls
+ 1012  2024-10-30 16:30:23 cp "/mnt/d/Docker" "/mnt/d/Whats App/vsc/hr"
+ 1013  2024-10-30 16:30:23 ls
+ 1014  2024-10-30 16:30:23 cp -r "/mnt/d/Docker" "/mnt/d/Whats App/vsc/hr"
+ 1015  2024-10-30 16:30:23 ls
+ 1016  2024-10-30 16:30:23 cd Docker/
+ 1017  2024-10-30 16:30:23 ls
+ 1018  2024-10-30 16:30:23 gedit notes_29_10.txt
+ 1019  2024-10-30 16:30:23 ls
+ 1020  2024-10-30 16:30:23 cd ..
+ 1021  2024-10-30 16:30:23 ls
+ 1022  2024-10-30 16:30:23 cd study
+ 1023  2024-10-30 16:30:23 ls
+ 1024  2024-10-30 16:30:23 cd subversion-git/
+ 1025  2024-10-30 16:30:23 ls
+ 1026  2024-10-30 16:30:23 cd hr-git/
+ 1027  2024-10-30 16:30:23 ls
+ 1028  2024-10-30 16:30:23 git remote v
+ 1029  2024-10-30 16:30:23 git remote -v
+ 1030  2024-10-30 16:30:23 ls
+ 1031  2024-10-30 16:30:23 cd ..
+ 1032  2024-10-30 16:30:23 git remote -v
+ 1033  2024-10-30 16:30:23 cp -r "/mnt/d/Docker"
+ 1034  2024-10-30 16:30:23 cp -r "/mnt/d/Docker" "/mnt/d/study/subversion-git"
+ 1035  2024-10-30 16:30:23 ls
+ 1036  2024-10-30 16:30:23 cd do
+ 1037  2024-10-30 16:30:23 cd Docker/
+ 1038  2024-10-30 16:30:23 ls
+ 1039  2024-10-30 16:30:23 git clone https://github.com/HemantHssn/docker.git
+ 1040  2024-10-30 16:30:23 ls
+ 1041  2024-10-30 16:30:23 cd docker/
+ 1042  2024-10-30 16:30:23 ls
+ 1043  2024-10-30 16:30:23 git status
+ 1044  2024-10-30 16:30:23 git remote -v
+ 1045  2024-10-30 16:30:23 git add .
+ 1046  2024-10-30 16:30:23 git status
+ 1047  2024-10-30 16:30:23 ls
+ 1048  2024-10-30 16:30:23 cd ..
+ 1049  2024-10-30 16:30:23 ls
+ 1050  2024-10-30 16:30:23 git status
+ 1051  2024-10-30 16:30:23 ls
+ 1052  2024-10-30 16:30:23 git add notes_29_10.txt
+ 1053  2024-10-30 16:30:23 ls
+ 1054  2024-10-30 16:30:23 cd docker/
+ 1055  2024-10-30 16:30:23 ls
+ 1056  2024-10-30 16:30:23 git add notes_29_10.txt
+ 1057  2024-10-30 16:30:23 cd ..
+ 1058  2024-10-30 16:30:23 git remote -v
+ 1059  2024-10-30 16:30:23 cd docker/
+ 1060  2024-10-30 16:30:23 ls
+ 1061  2024-10-30 16:30:23 git add ..
+ 1062  2024-10-30 16:30:23 git add .
+ 1063  2024-10-30 16:30:23 git status
+ 1064  2024-10-30 16:30:23 sudo docker version
+ 1065  2024-10-30 16:30:23 sudo docker ps -a
+ 1066  2024-10-30 16:30:23 sudo docker stop 8d422
+ 1067  2024-10-30 16:30:23 sudo docker ps -a
+ 1068  2024-10-30 16:30:23 sudo docker rm 8df
+ 1069  2024-10-30 16:30:23 sudo docker rm 8d4
+ 1070  2024-10-30 16:30:23 sudo docker ps -a
+ 1071  2024-10-30 16:30:23 sudo docker run -d ubuntu sleep 2000
+ 1072  2024-10-30 16:30:23 sudo docker ps -a
+ 1073  2024-10-30 16:30:23 sudo docker rm 121
+ 1074  2024-10-30 16:30:23 sudo docker ps -a
+ 1075  2024-10-30 16:30:23 sudo docker stop 947
+ 1076  2024-10-30 16:30:23 sudo docker rm 947
+ 1077  2024-10-30 16:30:23 sudo docker ps -a
+ 1078  2024-10-30 16:30:23 sudo docker kill 978 b0b 883
+ 1079  2024-10-30 16:30:23 sudo docker rm 978 b0b 883
+ 1080  2024-10-30 16:30:23 sudo docker ps -a
+ 1081  2024-10-30 16:30:23 sudo docker stop 246
+ 1082  2024-10-30 16:30:23 sudo docker ps -a
+ 1083  2024-10-30 16:30:23 sudo docker rm 246
+ 1084  2024-10-30 16:30:23 sudo docker ps -a
+ 1085  2024-10-30 16:30:23 exit
+ 1201  2024-10-30 09:39:30 sudo docker images
+ 1202  2024-10-30 09:39:44 docker images
+ 1203  2024-10-30 09:39:54 sudo docker images =s
+ 1204  2024-10-30 09:40:02 sudo docker images -a
+ 1205  2024-10-30 09:40:15 docker run whalesay
+ 1206  2024-10-30 09:40:24 sudo docker run whalesay
+ 1207  2024-10-30 09:41:03 docker run whalesay
+ 1208  2024-10-30 09:41:12 docker run --help
+ 1209  2024-10-30 10:03:26 docker run centos
+ 1210  2024-10-30 10:03:33 sudo docker centos
+ 1211  2024-10-30 10:03:59 sudo docker run centods
+ 1212  2024-10-30 10:04:04 sudo docker run centos
+ 1213  2024-10-30 10:05:25 sudo docker images
+ 1214  2024-10-30 10:06:18 sudo docker run -it centos
+ 1215  2024-10-30 10:08:27 docker ps
+ 1216  2024-10-30 10:08:32 sudo docker ps
+ 1217  2024-10-30 10:08:46 docker ps -a
+ 1218  2024-10-30 10:08:51 sudo docker ps -a
+ 1219  2024-10-30 10:09:22 sudo docker run -d centos sleep 20
+ 1220  2024-10-30 10:09:30 docker ps
+ 1221  2024-10-30 10:09:34 sudo docker ps
+ 1222  2024-10-30 10:10:09 sudo docker ps -a
+ 1223  2024-10-30 10:11:07 sudo docker run -d centos sleep 2000
+ 1224  2024-10-30 10:11:18 sudo docker ps
+ 1225  2024-10-30 10:11:29 sudo docker stop
+ 1226  2024-10-30 10:11:43 sudo docker stop 111d7f516bfa
+ 1227  2024-10-30 10:12:02 sudo docker ps
+ 1228  2024-10-30 10:12:08 sudo docker ps -a
+ 1229  2024-10-30 10:12:33 sudo docker rm c745ea33853b
+ 1230  2024-10-30 10:12:43 sudo docker ps -a
+ 1231  2024-10-30 10:13:27 sudo docker rm 5a4 fcf 69a fff 672 111
+ 1232  2024-10-30 10:13:33 sudo docker ps -a
+ 1233  2024-10-30 10:13:55 sudo docker images
+ 1234  2024-10-30 10:14:12 sudo docker run ubuntu
+ 1235  2024-10-30 10:15:02 sudo docker images
+ 1236  2024-10-30 10:15:08 sudo docker ps
+ 1237  2024-10-30 10:15:17 sudo docker pull busybox
+ 1238  2024-10-30 10:18:08 sudo groupadd docker
+ 1239  2024-10-30 10:18:37 sudo usermod -aG docker $USER
+ 1240  2024-10-30 10:18:57 groups
+ 1241  2024-10-30 10:19:20 docker ps
+ 1242  2024-10-30 10:19:24 sudo docker ps
+ 1243  2024-10-30 10:19:48 sudo docker images
+ 1244  2024-10-30 10:20:02 sudo docker images -a
+ 1245  2024-10-30 10:20:26 sudo docker rmi docker/whalesay
+ 1246  2024-10-30 10:20:40 sudo docker images
+ 1247  2024-10-30 10:20:50 sudo docker images -a
+ 1248  2024-10-30 10:22:01 sudo docker ps
+ 1249  2024-10-30 10:22:06 sudo docker ps -a
+ 1250  2024-10-30 10:22:26 sudo docker rm eca 0cc
+ 1251  2024-10-30 10:22:33 sudo docker ps
+ 1252  2024-10-30 10:22:37 sudo docker ps -a
+ 1253  2024-10-30 10:23:24 sudo docker run -d ubuntu sleep 100
+ 1254  2024-10-30 10:23:34 sudo docker ps
+ 1255  2024-10-30 10:23:56 sudo docker exec 262
+ 1256  2024-10-30 10:24:03 sudo docker exec 2620
+ 1257  2024-10-30 10:24:12 sudo docker exec 262069144d85
+ 1258  2024-10-30 10:24:54 sudo docker ps
+ 1259  2024-10-30 10:25:58 sudo docker exec 262069144d85 cat /etc/*release*
+ 1260  2024-10-30 10:26:24 sudo docker ubuntu sleep 100
+ 1261  2024-10-30 10:26:33 sudo docker run ubuntu sleep 100
+ 1262  2024-10-30 10:28:13 sudo docker psdo
+ 1263  2024-10-30 10:28:13 sudo docker stop
+ 1264  2024-10-30 10:28:13 sudo docker ps
+ 1265  2024-10-30 10:28:26 sudp docker ps -a
+ 1266  2024-10-30 10:28:35 sudo docker ps -a
+ 1267  2024-10-30 10:28:52 sudo docker rm 1a9 262
+ 1268  2024-10-30 10:28:58 sudo docker ps -a
+ 1269  2024-10-30 10:29:14 sudo docker run -d ubuntu sleep 200
+ 1270  2024-10-30 10:29:21 sudo docker ps
+ 1271  2024-10-30 10:30:08 sudo docker exec fb1c61275daf cat /etc/*release*
+ 1272  2024-10-30 10:33:07 sudo docker ps -a
+ 1273  2024-10-30 10:33:13 sudo docker rm fbq1
+ 1274  2024-10-30 10:33:17 sudo docker rm fb1
+ 1275  2024-10-30 10:33:22 sudo docker ps -a
+ 1276  2024-10-30 10:34:07 date
+ 1277  2024-10-30 10:34:14 history
+ 1278  2024-10-30 10:34:35 date
+ 1279  2024-10-30 10:35:20 history | grep "Oct 30"
+ 1280  2024-10-30 10:36:03 history
+ 1281  2024-10-30 10:37:24 nano ~/.bashrc
+ 1282  2024-10-30 10:40:53 source ~/.bashrc
+ 1283  2024-10-30 10:40:57 history
+ 1284  2024-10-30 10:45:00 cd /mnt
+ 1285  2024-10-30 10:45:01 ls
+ 1286  2024-10-30 10:45:02 cd d
+ 1287  2024-10-30 10:45:09 ld
+ 1288  2024-10-30 10:45:10 cd d
+ 1289  2024-10-30 10:45:13 ld
+ 1290  2024-10-30 10:45:14 ls
+ 1291  2024-10-30 10:45:18 cd Docker/
+ 1292  2024-10-30 10:45:18 ls
+ 1293  2024-10-30 10:45:50 mkdir commands_history
+ 1294  2024-10-30 10:45:51 ls
+ 1295  2024-10-30 10:45:58 history
+ 1296  2024-10-30 10:46:17 ls
+ 1297  2024-10-30 10:46:21 cd commands_history/
+ 1298  2024-10-30 10:46:22 ls
+ 1299  2024-10-30 10:46:37 history > /mnt/d/Docker/commands_history
+ 1300  2024-10-30 10:47:39 history > /mnt/d/Docker/commands_history/commands_history.txt
+ 1301  2024-10-30 10:47:53 cat /mnt/d/Docker/commands_history/commands_history.txt
+ 1302  2024-10-30 10:47:55 ls
+ 1303  2024-10-30 10:48:02 gedit commands_history.txt
+ 1304  2024-10-30 10:50:22 ls
+ 1305  2024-10-30 10:51:55 cp commands_history.txt /mnt/d/study/subversion-git/Docker/docker/commands_30_10_2024.txt
+ 1306  2024-10-30 10:52:56 ls
+ 1307  2024-10-30 10:53:02 cd
+ 1308  2024-10-30 10:53:05 cd /m
+ 1309  2024-10-30 10:53:08 cd /mnt
+ 1310  2024-10-30 10:53:09 ls
+ 1311  2024-10-30 10:53:12 cd d
+ 1312  2024-10-30 10:53:13 ls
+ 1313  2024-10-30 10:53:17 cd s
+ 1314  2024-10-30 10:53:21 cd study/
+ 1315  2024-10-30 10:53:22 ls
+ 1316  2024-10-30 10:53:25 cd subversion-git/
+ 1317  2024-10-30 10:53:26 ls
+ 1318  2024-10-30 10:53:28 cd hr-git/
+ 1319  2024-10-30 10:53:30 ls
+ 1320  2024-10-30 10:53:32 cd ..
+ 1321  2024-10-30 10:53:36 cd d
+ 1322  2024-10-30 10:53:37 ls
+ 1323  2024-10-30 10:53:39 cd Docker/
+ 1324  2024-10-30 10:53:40 ls
+ 1325  2024-10-30 10:53:43 cd docker/
+ 1326  2024-10-30 10:53:44 ls
+ 1327  2024-10-30 10:53:56 git status
+ 1328  2024-10-30 10:54:17 git add .
+ 1329  2024-10-30 10:54:20 git statyus
+ 1330  2024-10-30 10:54:24 git status
+ 1331  2024-10-30 10:55:07 git commit -m "29_30_oct"
+ 1332  2024-10-30 10:55:21 git push origin master
+ 1333  2024-10-30 10:56:50 git status
+ 1334  2024-10-30 10:56:55 git log
+ 1335  2024-10-30 11:00:17 xit
+ 1336  2024-10-30 11:12:19 cd
+ 1337  2024-10-30 11:12:53 docker version
+ 1338  2024-10-30 11:13:25 sudo docker version
+ 1339  2024-10-30 11:14:35 sudo docker ps
+ 1340  2024-10-30 11:14:40 sudo docker ps -a
+ 1341  2024-10-30 11:14:55 sudo docker run redis
+ 1342  2024-10-30 11:16:00 sudo docker ps -a
+ 1343  2024-10-30 11:16:12 sudo docker rm e84
+ 1344  2024-10-30 11:16:13 ls
+ 1345  2024-10-30 11:16:17 sudo docker ps -s
+ 1346  2024-10-30 11:16:24 sodo docker ps -a
+ 1347  2024-10-30 11:16:29 sudop docker ps -a
+ 1348  2024-10-30 11:16:36 sudo docker ps -a
+ 1349  2024-10-30 11:16:54 sudo docker images
+ 1350  2024-10-30 11:17:18 history
+ 1351  2024-10-30 11:22:36 sudo docker run rdid\s
+ 1352  2024-10-30 11:22:53 sudo docker ps
+ 1353  2024-10-30 11:22:57 dudo docker ps -a
+ 1354  2024-10-30 11:23:03 sudo docker ps -a
+ 1355  2024-10-30 11:23:08 sudo docker images
+ 1356  2024-10-30 11:23:21 sudo docker run redis
+ 1357  2024-10-30 11:26:45 sudo docker ps -a
+ 1358  2024-10-30 11:27:03 sudo docker run -d redis sleep 100
+ 1359  2024-10-30 11:27:08 sudo docker ps -a
+ 1360  2024-10-30 11:28:22 sudo  docker rm fecc 715f
+ 1361  2024-10-30 11:28:34 sudo docker ps -a
+ 1362  2024-10-30 11:28:43 sudo docker stop fecc
+ 1363  2024-10-30 11:28:47 sudo docker ps -a
+ 1364  2024-10-30 11:28:56 sudo docker rm fecc
+ 1365  2024-10-30 11:29:02 sudo docker ps -a
+ 1366  2024-10-30 11:29:15 sudo docker run -d ubuntu sleep 100
+ 1367  2024-10-30 11:29:21 sudo docker ps -a
+ 1368  2024-10-30 11:29:37 sudo docker rm 80e
+ 1369  2024-10-30 11:29:46 sudo docker kill c16
+ 1370  2024-10-30 11:30:03 sudo docker kill 80e
+ 1371  2024-10-30 11:30:09 sudo docker ps -a
+ 1372  2024-10-30 11:30:17 sudo docker rm 80e
+ 1373  2024-10-30 11:30:18 ls
+ 1374  2024-10-30 11:30:22 sudo docker ops -a
+ 1375  2024-10-30 11:30:26 sudo docker ps -a
+ 1376  2024-10-30 11:30:41 sudo docker images
+ 1377  2024-10-30 11:32:43 sudo docker -i ubuntu
+ 1378  2024-10-30 11:33:19 sudo docker run -i ubuntu
+ 1379  2024-10-30 11:34:40 sudo0 docker ps -a
+ 1380  2024-10-30 11:34:46 sudo docker ps -a
+ 1381  2024-10-30 11:34:57 sudo docker rm 9dea
+ 1382  2024-10-30 11:35:03 sudo docker ps -a
+ 1383  2024-10-30 11:35:56 sudo docker run -it ubuntu
+ 1384  2024-10-30 11:36:37 sudo docker -itd ubuntu
+ 1385  2024-10-30 11:36:43 sudo docker ps -a
+ 1386  2024-10-30 11:36:57 sudo docker rm 05fe
+ 1387  2024-10-30 11:37:06 sudo docker ps -a
+ 1388  2024-10-30 11:37:59 docker run kodekloud/webapp
+ 1389  2024-10-30 11:38:07 sudo docker run kodekloud/webapp
+ 1390  2024-10-30 11:42:18 sudo docker ps -a
+ 1391  2024-10-30 11:42:27 sudo docker kill 121
+ 1392  2024-10-30 11:42:32 sudo docker ps -a
+ 1393  2024-10-30 11:43:09 sudo docker images
+ 1394  2024-10-30 11:43:27 sudo docker rmi kodekloud/webapp
+ 1395  2024-10-30 11:43:35 sudo docker images
+ 1396  2024-10-30 11:43:56 sudo docker pull kodekloud/webapp
+ 1397  2024-10-30 11:44:34 sudo docker ps -s
+ 1398  2024-10-30 11:44:40 sudo docker ps -a
+ 1399  2024-10-30 11:45:00 sudo docker run kodekloud/webapp
+ 1400  2024-10-30 11:46:54 exit
+ 1401  2024-10-30 11:47:10 sudo docker ps -a
+ 1402  2024-10-30 11:47:32 sudo docker run kodekloud/simple-prompt-docker
+ 1403  2024-10-30 11:47:58 sudo docker run -i kodekloud/simple-prompt-docker
+ 1404  2024-10-30 11:48:09 sudo docker run -it kodekloud/simple-prompt-docker
+ 1405  2024-10-30 11:49:29 sudo docker ps -a
+ 1406  2024-10-30 11:49:44 sudo docker rm 1d11 3a4c
+ 1407  2024-10-30 11:49:54 sudo docker ps -a
+ 1408  2024-10-30 11:50:23 sudo docker  kodekloud/webapp
+ 1409  2024-10-30 11:50:31 sudo docker run kodekloud/webapp
+ 1410  2024-10-30 11:54:41 kodekloud/webappkodekloud/webapp0
+ 1411  2024-10-30 11:54:41 exit
+ 1412  2024-10-30 11:55:55 sudo docker run -p 80:500 kodekloud/simple-webapp
+ 1413  2024-10-30 11:57:09 exit
+ 1414  2024-10-30 13:18:31 sudo docker ps -a
+ 1415  2024-10-30 13:18:48 sudo docker images
+ 1416  2024-10-30 13:21:20 sudo docker rmi jemkins/jenkins:latest
+ 1417  2024-10-30 13:21:30 sudo docker rmi jenkins/jenkins:latest
+ 1418  2024-10-30 13:21:46 sudo docker stop 15b
+ 1419  2024-10-30 13:21:52 sudo docker rmi jenkins/jenkins:latest
+ 1420  2024-10-30 13:22:04 sudo docker ps -a
+ 1421  2024-10-30 13:22:11 sudo docker rm 15b
+ 1422  2024-10-30 13:22:15 sudo docker rmi jenkins/jenkins:latest
+ 1423  2024-10-30 13:22:23 sudo docker images
+ 1424  2024-10-30 13:22:43 sudo docker run bac101b69b63
+ 1425  2024-10-30 13:24:15 sudo docker ps -a
+ 1426  2024-10-30 13:24:20 sudo docker images
+ 1427  2024-10-30 13:26:44 sudo docker ps -a
+ 1428  2024-10-30 13:27:03 sudo docker run -d bac1
+ 1429  2024-10-30 13:27:09 sudo docker ps -a
+ 1430  2024-10-30 13:27:28 sudo docker inspect 6544
+ 1431  2024-10-30 14:23:24 sudo docker ps -a
+ 1432  2024-10-30 15:01:01 sudo docker ps
+ 1433  2024-10-30 15:01:35 sudo docker stop
+ 1434  2024-10-30 15:01:40 sudo docker ps
+ 1435  2024-10-30 15:01:52 sudo docker 6544
+ 1436  2024-10-30 15:01:57 sudo docker stop 6544
+ 1437  2024-10-30 15:02:05 sudo docker ps-a
+ 1438  2024-10-30 15:02:07 sudo docker ps -a
+ 1439  2024-10-30 15:02:19 sudo docker rm6544
+ 1440  2024-10-30 15:02:22 sudo docker rm 6544
+ 1441  2024-10-30 15:02:26 sudo docker ps -a
+ 1442  2024-10-30 15:02:29 sudo docker
+ 1443  2024-10-30 15:02:41 sudo docker imaqges
+ 1444  2024-10-30 15:02:46 sudo docker images
+ 1445  2024-10-30 15:03:16 sudo docker run bac
+ 1446  2024-10-30 15:23:59 sudo docker version
+ 1447  2024-10-30 15:24:23 sudo docker ps -a
+ 1448  2024-10-30 15:24:31 sudo docker inspect 815
+ 1449  2024-10-30 15:25:45 sudo docker ps  -a
+ 1450  2024-10-30 15:25:54 sudo docker stop 815
+ 1451  2024-10-30 15:26:09 sudo docker ps -a
+ 1452  2024-10-30 15:27:37 sudo docker run -p 8080:8080 bac
+ 1453  2024-10-30 11:56:57 sudo docker ps -a
+ 1454  2024-10-30 11:57:08 sudo docker kill 865
+ 1455  2024-10-30 11:58:16 sudo docker ps -a
+ 1456  2024-10-30 11:58:24 sudo docker rm 865
+ 1457  2024-10-30 11:58:29 sudo docker ps -a
+ 1458  2024-10-30 12:49:03 sudo docker run -d ubuntu sleep 2000
+ 1459  2024-10-30 12:49:14 sudo docker ps -a
+ 1460  2024-10-30 12:49:31 sudo docker inspect a0ddd
+ 1461  2024-10-30 12:51:11 docker logs a0dd
+ 1462  2024-10-30 12:51:19 sudo docker logs a0dd
+ 1463  2024-10-30 12:51:24 sudo docker ps -a
+ 1464  2024-10-30 12:51:38 sudo docker ps -aexit
+ 1465  2024-10-30 12:52:00 sudo docker ps -s
+ 1466  2024-10-30 12:52:15 sudo docker stop a0dd
+ 1467  2024-10-30 12:52:30 sudo docker rm a0dd
+ 1468  2024-10-30 12:52:36 sudo docker ps-a
+ 1469  2024-10-30 12:52:40 sudo docker ps -a
+ 1470  2024-10-30 12:53:56 sudo docker ps
+ 1471  2024-10-30 12:55:46 sudo docker run ubuntu cat /etc/*release*
+ 1472  2024-10-30 12:57:04 sudo docker run ubuntu:17.10 cat /etc/*release*
+ 1473  2024-10-30 12:58:06 sudo docker run ubuntu cat /etc/*release*
+ 1474  2024-10-30 12:58:30 sudo docker images
+ 1475  2024-10-30 13:01:42 sudo docker ps -a
+ 1476  2024-10-30 13:03:45 sudo docker 5033 0343 b049
+ 1477  2024-10-30 13:03:55 sudo docker kill  5033 0343 b049
+ 1478  2024-10-30 13:04:04 sudo docker rm 5033 0343 b049
+ 1479  2024-10-30 13:04:21 sudo docker ps -a
+ 1480  2024-10-30 13:04:32 sudo docker rm 0353
+ 1481  2024-10-30 13:04:36 sudodocker ps -a
+ 1482  2024-10-30 13:04:41 sudo docker ps -a
+ 1483  2024-10-30 13:05:36 sudo docker pull jenkins
+ 1484  2024-10-30 13:05:58 sudo docker run jenkins
+ 1485  2024-10-30 13:06:58 sudo docker pull jenkins
+ 1486  2024-10-30 13:07:30 sudo docker pull jenkins:lts
+ 1487  2024-10-30 13:09:18 docker pull jenkins
+ 1488  2024-10-30 13:09:26 sudo docker pull jenkins
+ 1489  2024-10-30 13:10:27 sudo docker pull jenkins:2.60.3
+ 1490  2024-10-30 13:11:23 sudo docker images
+ 1491  2024-10-30 13:11:33 sudo docker pull jenkinds
+ 1492  2024-10-30 13:11:44 sudo docker pull jenkins
+ 1493  2024-10-30 13:12:04 sudo docker images
+ 1494  2024-10-30 13:13:02 sudo docker pull jenkins/jenkins:lts
+ 1495  2024-10-30 13:14:28 sudo docker images
+ 1496  2024-10-30 13:14:57 sudo docker rmi jenkins
+ 1497  2024-10-30 13:15:18 sudo docker images
+ 1498  2024-10-30 13:15:34 sudo docker rmi cd14cecfdb3a
+ 1499  2024-10-30 13:15:41 sudo docker images
+ 1500  2024-10-30 13:16:35 sudo docker ps -a
+ 1501  2024-10-30 13:16:48 sudo docker run jenkins/jenkins
+ 1502  2024-10-30 13:23:31 sudo docker ps -a
+ 1503  2024-10-30 13:23:40 sudo docker stop c96a
+ 1504  2024-10-30 13:23:45 sudo docker ps-a
+ 1505  2024-10-30 13:23:50 sudo docker ps -a
+ 1506  2024-10-30 13:24:03 sudo docker rm c96a
+ 1507  2024-10-30 13:24:07 sudo docker ps -a
+ 1508  2024-10-30 15:00:37 sudo docker ps
+ 1509  2024-10-30 15:03:57 sudo docker -ps
+ 1510  2024-10-30 15:04:09 sudo docker ps -=s
+ 1511  2024-10-30 15:04:16 sudo docker ps -a
+ 1512  2024-10-30 15:05:06 docker ps
+ 1513  2024-10-30 15:09:41 sudo docker inspect 352
+ 1514  2024-10-30 15:10:35 sudo docker ps -a
+ 1515  2024-10-30 15:15:17 firefox
+ 1516  2024-10-30 15:17:49 sudo docker ps -a
+ 1517  2024-10-30 15:18:35 ps
+ 1518  2024-10-30 15:18:38 ps aux
+ 1519  2024-10-30 15:19:04 ps -u hemanth
+ 1520  2024-10-30 15:19:33 psgrep -l firefox
+ 1521  2024-10-30 15:19:47 pgrep -l firefox
+ 1522  2024-10-30 15:19:58 jobs
+ 1523  2024-10-30 15:20:02 ps
+ 1524  2024-10-30 15:20:05 ps aux
+ 1525  2024-10-30 15:21:03 sudo docker ps -a
+ 1526  2024-10-30 15:21:10 sudo docker stop 352
+ 1527  2024-10-30 15:21:15 sudo docker rm 352
+ 1528  2024-10-30 15:21:22 sudo docker ps -a
+ 1529  2024-10-30 15:21:59 sudo docker images
+ 1530  2024-10-30 15:22:05 sudo docker run bac
+ 1531  2024-10-30 15:34:38 firfox
+ 1532  2024-10-30 15:34:53 firefox
+ 1533  2024-10-30 15:44:40 exit
+ 1534  2024-10-30 16:52:29 sudo docker ps -a
+ 1535  2024-10-30 16:54:24 sudo docker ps
+ 1536  2024-10-30 16:55:21 sudo docker stop 934
+ 1537  2024-10-30 16:55:30 sudo docker rm 934
+ 1538  2024-10-30 16:55:34 sudo docker ps
+ 1539  2024-10-31 11:16:21 sudo docker
+ 1540  2024-10-31 11:16:27 ps
+ 1541  2024-10-31 11:16:37 sudo docker ps -a
+ 1542  2024-10-31 11:16:43 sido docker images\
+ 1543  2024-10-31 11:16:47 sido docker images
+ 1544  2024-10-31 11:16:53 sudo docker images
+ 1545  2024-10-31 11:19:30 sudo dockler run -p 8080:8080 -p 50000:50000 -v /home/hemanth/my_jenkins_data:/var/jenkins_home jenkins/jenkins:lts
+ 1546  2024-10-31 11:19:43 sudo docker run -p 8080:8080 -p 50000:50000 -v /home/hemanth/my_jenkins_data:/var/jenkins_home jenkins/jenkins:lts
+ 1547  2024-10-31 11:25:56 ls
+ 1548  2024-10-31 11:26:04 cd my_jenkins_data/
+ 1549  2024-10-31 11:26:04 ls
+ 1550  2024-10-31 11:26:06 pwd
+ 1551  2024-10-31 11:26:28 cd
+ 1552  2024-10-31 11:27:05 sudo docker run -v /home/hemanth/my_jenkins_data
+ 1553  2024-10-31 11:27:42 sudo docker run -v /home/hemanth/my_jenkins_data:/var/jenkins_home bac101b69b63
+ 1554  2024-10-31 11:36:05 ps
+ 1555  2024-10-31 11:36:12 sudo docker ps -a
+ 1556  2024-10-31 12:12:59 history
+ 1557  2024-10-31 12:24:03 ps
+ 1558  2024-10-31 12:24:17 sudo docker ps -a
+ 1559  2024-10-31 12:25:04 history
+ 1560  2024-10-31 12:26:04 history | grep -E "2024-10-30|2024-10-31"
