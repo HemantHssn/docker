@@ -1,0 +1,25 @@
+Docker image creating
+=============================
+---->>> we will create a directory/folder
+---->>> we need to create a executable application script
+---->>> write docker file 
+---->>> build docker file with tag and image_name (use "." mention the current directory ) 
+
+
+Dockerfile 
+
+# Use a base image with Python and Bash
+FROM python:3.9-slim
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Copy the scripts into the container
+COPY hello.sh /app/hello.sh
+COPY hii.py /app/hii.py
+
+# Make the shell script executable
+RUN chmod +x /app/hello.sh
+
+# Default command to run both scripts
+CMD ["bash", "-c", "./hello.sh && python3 hii.py"]
