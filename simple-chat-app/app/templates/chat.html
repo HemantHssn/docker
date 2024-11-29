@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Chat App</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div id="chat-container">
+        <h1>Simple Chat App</h1>
+        <div id="messages"></div>
+        <input type="text" id="user" placeholder="Enter your name" />
+        <input type="text" id="message" placeholder="Type your message" />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        // Fetch and display messages
+        async function fetchMessages() {
+            const response = await fetch("/messages");
+            const data = await response.json();
+            const messagesDiv = document.getElementById("messages");
+            messagesDiv.innerHTML = data.messages.map(msg => `<p><strong>${msg.user}:</strong> ${msg.message}</p>`).join("");
+        }
+
+        // Send a message
+        async function sendMessage() {
+            const user = document.getElementById("user").value || "Anonymous";
+            const message = document.getElementById("message").value;
+            if (message.trim()) {
+                await fetch("/send", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ user, message }),
+                });
+                document.getElementById("message").value = ""; // Clear the input
+                fetchMessages(); // Refresh the chat
+            }
+        }
+
+        // Refresh messages every 1 second
+        setInterval(fetchMessages, 1000);
+        fetchMessages();
+    </script>
+</body>
+</html>
+
